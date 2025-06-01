@@ -1,7 +1,16 @@
-Regresión Lineal Mültiple
-https://prezi.com/fi8hf56q7s0l/regresion-lineal-multiple/
+Tipos de datos cualitativos y cuantitativos
+https://prezi.com/p/6jsux3drj8g2/tipos-de-variables-cualitativas-y-cuantitativas-en-estadistica/
 
+presentación propia aprendizaje supervisado y algoritmos
+https://app.presentations.ai/view/aNqqmc
 
-Librería Scikit_learn
-https://prezi.com/p/763z4cwqutq8/aprendiendo-con-scikit-learn/
+uso de pandas
+https://prezi.com/p/ddejvuf0cqyf/pandas-en-ia/
+
+como usar kaggle 
+https://setronica.com/how-to-use-kaggle-datasets-for-research-a-step-by-step-guide/
+
+Uso matplolib
+https://prezi.com/p/l4hqypqikjhn/visualizacion-de-datos-con-matplotlib/
+ 
 
