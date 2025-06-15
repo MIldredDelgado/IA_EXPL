@@ -1,8 +1,0 @@
-video árboles de decisión
-https://youtu.be/gNyroz4Iuso
-
-video ramdom forest
-https://youtu.be/33KWtdO8uoU
-
-presentación arboles y bosque
-https://prezi.com/p/b9mrc6j-kqym/clasificacion-con-aprendizaje-automatico-arboles-de-decision-y-random-forest/

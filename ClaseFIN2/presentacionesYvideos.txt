@@ -1,3 +1,9 @@
+manual de Python
+https://aprendeconalf.es/docencia/python/manual/
+
+Python interactivo
+https://aprendeconalf.es/docencia/python/ejercicios/tipos-datos/ 
+
 conceptos básicos de ia
 https://prezi.com/p/cxqb482cnhdc/inteligencia-artificial-conceptos-basicos2F
 
@@ -6,18 +12,8 @@ https://prezi.com/p/lf7kqnritft8/tipos-de-inteligencia-artificial/
 
 presentación aprendizaje supervisado y no 
 https://es.slideshare.net/slideshow/aprendizaje-supervisado-y-aprendizaje-no-supervisado/97306791
+
 video 
 https://youtu.be/d1tVOcZwM3s
 
-presentación propia aprendizaje supervisado y algoritmos
-https://app.presentations.ai/view/aNqqmc
-
-uso de pandas
-https://prezi.com/p/ddejvuf0cqyf/pandas-en-ia/
-
-como usar kaggle 
-https://setronica.com/how-to-use-kaggle-datasets-for-research-a-step-by-step-guide/
-
-Uso matplolib
-https://prezi.com/p/l4hqypqikjhn/visualizacion-de-datos-con-matplotlib/
 
