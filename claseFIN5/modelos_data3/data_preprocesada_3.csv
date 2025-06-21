@@ -1,0 +1,1219 @@
+<<<<<<< HEAD
+,Unnamed: 0,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,job_title_clean,employee_residence_clean,company_location_clean,log_salary_usd,remote_type
+0,0,2020,mi,ft,Data Scientist,70000,eur,79833,DE,0,DE,l,data scientist,de,de,11.28770475786082,presencial
+1,1,2020,se,ft,Machine Learning Scientist,260000,usd,260000,JP,0,JP,s,other,other,other,12.468440756144114,presencial
+2,2,2020,se,ft,Big Data Engineer,85000,gbp,109024,GB,50,GB,m,other,gb,gb,11.599332492710968,híbrido
+3,3,2020,mi,ft,Product Data Analyst,20000,usd,20000,HN,0,HN,s,other,other,other,9.90353755128617,presencial
+4,4,2020,se,ft,Machine Learning Engineer,150000,usd,150000,US,50,US,l,machine learning engineer,us,us,11.918397239722838,híbrido
+5,5,2020,en,ft,Data Analyst,72000,usd,72000,US,100,US,l,data analyst,us,us,11.184435286790631,remoto total
+6,6,2020,se,ft,Lead Data Scientist,190000,usd,190000,US,100,US,s,other,us,us,12.154784614286667,remoto total
+7,7,2020,mi,ft,Data Scientist,11000000,huf,35735,HU,50,HU,l,data scientist,other,other,10.483913863031955,híbrido
+8,8,2020,mi,ft,Business Data Analyst,135000,usd,135000,US,100,US,l,other,us,us,11.813037464800539,remoto total
+9,9,2020,se,ft,Lead Data Engineer,125000,usd,125000,NZ,50,NZ,s,other,other,other,11.736077016252437,híbrido
+10,10,2020,en,ft,Data Scientist,45000,eur,51321,FR,0,FR,s,data scientist,other,other,10.845874789131557,presencial
+11,11,2020,mi,ft,Data Scientist,3000000,inr,40481,IN,0,IN,l,data scientist,in,in,10.60861270985548,presencial
+12,12,2020,en,ft,Data Scientist,35000,eur,39916,FR,0,FR,m,data scientist,other,other,10.594557577300874,presencial
+13,13,2020,mi,ft,Lead Data Analyst,87000,usd,87000,US,100,US,l,other,us,us,11.373674891823535,remoto total
+14,14,2020,mi,ft,Data Analyst,85000,usd,85000,US,100,US,l,data analyst,us,us,11.350418300109132,remoto total
+15,15,2020,mi,ft,Data Analyst,8000,usd,8000,PK,50,PK,l,data analyst,other,other,8.987321812850125,híbrido
+16,16,2020,en,ft,Data Engineer,4450000,jpy,41689,JP,100,JP,s,data engineer,other,other,10.638016570874843,remoto total
+17,17,2020,se,ft,Big Data Engineer,100000,eur,114047,PL,100,GB,s,other,other,gb,11.644374691390427,remoto total
+18,18,2020,en,ft,Data Science Consultant,423000,inr,5707,IN,50,IN,m,other,in,in,8.649623978596727,híbrido
+19,19,2020,mi,ft,Lead Data Engineer,56000,usd,56000,PT,100,US,m,other,other,us,10.933124826700707,remoto total
+20,20,2020,mi,ft,Machine Learning Engineer,299000,cny,43331,CN,0,CN,m,machine learning engineer,other,other,10.676646671065457,presencial
+21,21,2020,mi,ft,Product Data Analyst,450000,inr,6072,IN,100,IN,l,other,in,in,8.711607995897575,remoto total
+22,22,2020,se,ft,Data Engineer,42000,eur,47899,GR,50,GR,l,data engineer,other,other,10.776870783399007,híbrido
+23,23,2020,mi,ft,BI Data Analyst,98000,usd,98000,US,0,US,m,other,us,us,11.49273296168228,presencial
+24,24,2020,mi,ft,Lead Data Scientist,115000,usd,115000,AE,0,AE,l,other,other,other,11.652696102959753,presencial
+25,25,2020,ex,ft,Director of Data Science,325000,usd,325000,US,100,US,l,other,us,us,12.691583538230217,remoto total
+26,26,2020,en,ft,Research Scientist,42000,usd,42000,NL,50,NL,l,research scientist,other,other,10.645448706505872,híbrido
+27,27,2020,se,ft,Data Engineer,720000,mxn,33511,MX,0,MX,s,data engineer,other,other,10.419658862626871,presencial
+28,28,2020,en,ct,Business Data Analyst,100000,usd,100000,US,100,US,l,other,us,us,11.51293546492023,remoto total
+29,29,2020,se,ft,Machine Learning Manager,157000,cad,117104,CA,50,CA,l,other,ca,ca,11.6708262472225,híbrido
+30,30,2020,mi,ft,Data Engineering Manager,51999,eur,59303,DE,100,DE,s,other,de,de,10.990432036336555,remoto total
+31,31,2020,en,ft,Big Data Engineer,70000,usd,70000,US,100,US,l,other,us,us,11.156264806643742,remoto total
+32,32,2020,se,ft,Data Scientist,60000,eur,68428,GR,100,US,l,data scientist,other,us,11.133551990366144,remoto total
+33,33,2020,mi,ft,Research Scientist,450000,usd,450000,US,0,US,m,research scientist,us,us,13.017005083966255,presencial
+34,34,2020,mi,ft,Data Analyst,41000,eur,46759,FR,50,FR,l,data analyst,other,other,10.752783415586006,híbrido
+35,35,2020,mi,ft,Data Engineer,65000,eur,74130,AT,50,AT,l,data engineer,other,other,11.213589077374968,híbrido
+36,36,2020,mi,ft,Data Science Consultant,103000,usd,103000,US,100,US,l,other,us,us,11.542493975902508,remoto total
+37,37,2020,en,ft,Machine Learning Engineer,250000,usd,250000,US,50,US,l,machine learning engineer,us,us,12.429220196836383,híbrido
+38,38,2020,en,ft,Data Analyst,10000,usd,10000,NG,100,NG,s,data analyst,other,other,9.210440366976517,remoto total
+39,39,2020,en,ft,Machine Learning Engineer,138000,usd,138000,US,100,US,s,machine learning engineer,us,us,11.835016210489899,remoto total
+40,40,2020,mi,ft,Data Scientist,45760,usd,45760,PH,100,US,s,data scientist,other,us,10.731187478961756,remoto total
+41,41,2020,ex,ft,Data Engineering Manager,70000,eur,79833,ES,50,ES,l,other,other,other,11.28770475786082,híbrido
+42,42,2020,mi,ft,Machine Learning Infrastructure Engineer,44000,eur,50180,PT,0,PT,m,other,other,other,10.823391747980118,presencial
+43,43,2020,mi,ft,Data Engineer,106000,usd,106000,US,100,US,l,data engineer,us,us,11.571203807011969,remoto total
+44,44,2020,mi,ft,Data Engineer,88000,gbp,112872,GB,50,GB,l,data engineer,gb,gb,11.634018571846916,híbrido
+45,45,2020,en,pt,ML Engineer,14000,eur,15966,DE,100,DE,s,other,de,de,9.678279371339702,remoto total
+46,46,2020,mi,ft,Data Scientist,60000,gbp,76958,GB,100,GB,s,data scientist,gb,gb,11.251028091492175,remoto total
+47,47,2020,se,ft,Data Engineer,188000,usd,188000,US,100,US,l,data engineer,us,us,12.144202560946876,remoto total
+48,48,2020,mi,ft,Data Scientist,105000,usd,105000,US,100,US,l,data scientist,us,us,11.561725152903833,remoto total
+49,49,2020,mi,ft,Data Engineer,61500,eur,70139,FR,50,FR,l,data engineer,other,other,11.15824852369417,híbrido
+50,50,2020,en,ft,Data Analyst,450000,inr,6072,IN,0,IN,s,data analyst,in,in,8.711607995897575,presencial
+51,51,2020,en,ft,Data Analyst,91000,usd,91000,US,100,US,l,data analyst,us,us,11.418625774449598,remoto total
+52,52,2020,en,ft,AI Scientist,300000,dkk,45896,DK,50,DK,s,other,other,other,10.734155034435489,híbrido
+53,53,2020,en,ft,Data Engineer,48000,eur,54742,PK,100,DE,l,data engineer,other,de,10.910404785623465,remoto total
+54,54,2020,se,fl,Computer Vision Engineer,60000,usd,60000,RU,100,US,s,other,other,us,11.002116507732017,remoto total
+55,55,2020,se,ft,Principal Data Scientist,130000,eur,148261,DE,100,DE,m,other,de,de,11.906736257934913,remoto total
+56,56,2020,mi,ft,Data Scientist,34000,eur,38776,ES,100,ES,m,data scientist,other,other,10.565582566340604,remoto total
+57,57,2020,mi,ft,Data Scientist,118000,usd,118000,US,100,US,m,data scientist,us,us,11.678448377988165,remoto total
+58,58,2020,se,ft,Data Scientist,120000,usd,120000,US,50,US,l,data scientist,us,us,11.695255355062795,híbrido
+59,59,2020,mi,ft,Data Scientist,138350,usd,138350,US,100,US,m,data scientist,us,us,11.837549213233764,remoto total
+60,60,2020,mi,ft,Data Engineer,110000,usd,110000,US,100,US,l,data engineer,us,us,11.608244735642321,remoto total
+61,61,2020,mi,ft,Data Engineer,130800,usd,130800,ES,100,US,m,data engineer,other,us,11.781432363235949,remoto total
+62,62,2020,en,pt,Data Scientist,19000,eur,21669,IT,50,IT,s,data scientist,other,other,9.983684094530405,híbrido
+63,63,2020,se,ft,Data Scientist,412000,usd,412000,US,100,US,l,data scientist,us,us,12.928781055513184,remoto total
+64,64,2020,se,ft,Machine Learning Engineer,40000,eur,45618,HR,100,HR,s,machine learning engineer,other,other,10.728079575387694,remoto total
+65,65,2020,en,ft,Data Scientist,55000,eur,62726,DE,50,DE,s,data scientist,de,de,11.046547255939533,híbrido
+66,66,2020,en,ft,Data Scientist,43200,eur,49268,DE,0,DE,s,data scientist,de,de,10.805050359005671,presencial
+67,67,2020,se,ft,Data Science Manager,190200,usd,190200,US,100,US,m,other,us,us,12.155836686703159,remoto total
+68,68,2020,en,ft,Data Scientist,105000,usd,105000,US,100,US,s,data scientist,us,us,11.561725152903833,remoto total
+69,69,2020,se,ft,Data Scientist,80000,eur,91237,AT,0,AT,s,data scientist,other,other,11.42122675594764,presencial
+70,70,2020,mi,ft,Data Scientist,55000,eur,62726,FR,50,LU,s,data scientist,other,other,11.046547255939533,híbrido
+71,71,2020,mi,ft,Data Scientist,37000,eur,42197,FR,50,FR,s,data scientist,other,other,10.650128105536073,híbrido
+72,72,2021,en,ft,Research Scientist,60000,gbp,82528,GB,50,GB,l,research scientist,gb,gb,11.320905025707312,híbrido
+73,73,2021,ex,ft,BI Data Analyst,150000,usd,150000,IN,100,US,l,other,in,us,11.918397239722838,remoto total
+74,74,2021,ex,ft,Head of Data,235000,usd,235000,US,100,US,l,other,us,us,12.367345048436391,remoto total
+75,75,2021,se,ft,Data Scientist,45000,eur,53192,FR,50,FR,l,data scientist,other,other,10.881682087725098,híbrido
+76,76,2021,mi,ft,BI Data Analyst,100000,usd,100000,US,100,US,m,other,us,us,11.51293546492023,remoto total
+77,77,2021,mi,pt,3D Computer Vision Researcher,400000,inr,5409,IN,50,IN,m,other,in,in,8.596004371840527,híbrido
+78,78,2021,mi,ct,ML Engineer,270000,usd,270000,US,100,US,l,other,us,us,12.506180941677357,remoto total
+79,79,2021,en,ft,Data Analyst,80000,usd,80000,US,100,US,m,data analyst,us,us,11.289794413577894,remoto total
+80,80,2021,se,ft,Data Analytics Engineer,67000,eur,79197,DE,100,DE,l,other,de,de,11.279706324958415,remoto total
+81,81,2021,mi,ft,Data Engineer,140000,usd,140000,US,100,US,l,data engineer,us,us,11.849404844423074,remoto total
+82,82,2021,mi,ft,Applied Data Scientist,68000,cad,54238,GB,50,CA,l,other,gb,ca,10.90115548586615,híbrido
+83,83,2021,mi,ft,Machine Learning Engineer,40000,eur,47282,ES,100,ES,s,machine learning engineer,other,other,10.76390610184365,remoto total
+84,84,2021,ex,ft,Director of Data Science,130000,eur,153667,IT,100,PL,l,other,other,other,11.94254971006262,remoto total
+85,85,2021,mi,ft,Data Engineer,110000,pln,28476,PL,100,PL,l,data engineer,other,other,10.25685202289892,remoto total
+86,86,2021,en,ft,Data Analyst,50000,eur,59102,FR,50,FR,m,data analyst,other,other,10.987036963527192,híbrido
+87,87,2021,mi,ft,Data Analytics Engineer,110000,usd,110000,US,100,US,l,other,us,us,11.608244735642321,remoto total
+88,88,2021,se,ft,Lead Data Analyst,170000,usd,170000,US,100,US,l,other,us,us,12.04355959836804,remoto total
+89,89,2021,se,ft,Data Analyst,80000,usd,80000,BG,100,US,s,data analyst,other,us,11.289794413577894,remoto total
+90,90,2021,se,ft,Marketing Data Analyst,75000,eur,88654,GR,100,DK,l,other,other,other,11.392507711491088,remoto total
+91,91,2021,en,ft,Data Science Consultant,65000,eur,76833,DE,100,DE,s,other,de,de,11.249402529502674,remoto total
+92,92,2021,mi,ft,Lead Data Analyst,1450000,inr,19609,IN,100,IN,l,other,in,in,9.883794919190391,remoto total
+93,93,2021,se,ft,Lead Data Engineer,276000,usd,276000,US,0,US,l,other,us,us,12.52815976788113,presencial
+94,94,2021,en,ft,Data Scientist,2200000,inr,29751,IN,50,IN,l,data scientist,in,in,10.300651635604906,híbrido
+95,95,2021,mi,ft,Cloud Data Engineer,120000,sgd,89294,SG,50,SG,l,other,other,other,11.3997007742556,híbrido
+96,96,2021,en,pt,AI Scientist,12000,usd,12000,BR,100,US,s,other,other,us,9.392745258631441,remoto total
+97,97,2021,mi,ft,Financial Data Analyst,450000,usd,450000,US,100,US,l,other,us,us,13.017005083966255,remoto total
+98,98,2021,en,ft,Computer Vision Software Engineer,70000,usd,70000,US,100,US,m,other,us,us,11.156264806643742,remoto total
+99,99,2021,mi,ft,Computer Vision Software Engineer,81000,eur,95746,DE,100,US,s,other,de,us,11.469464574959359,remoto total
+100,100,2021,mi,ft,Data Analyst,75000,usd,75000,US,0,US,l,data analyst,us,us,11.225256725762893,presencial
+101,101,2021,se,ft,Data Engineer,150000,usd,150000,US,100,US,l,data engineer,us,us,11.918397239722838,remoto total
+102,102,2021,mi,ft,BI Data Analyst,11000000,huf,36259,HU,50,US,l,other,other,us,10.498470484308841,híbrido
+103,103,2021,mi,ft,Data Analyst,62000,usd,62000,US,0,US,l,data analyst,us,us,11.034905792929415,presencial
+104,104,2021,mi,ft,Data Scientist,73000,usd,73000,US,0,US,l,data scientist,us,us,11.19822841866684,presencial
+105,105,2021,mi,ft,Data Analyst,37456,gbp,51519,GB,50,GB,l,data analyst,gb,gb,10.849725360778235,híbrido
+106,106,2021,mi,ft,Research Scientist,235000,cad,187442,CA,100,CA,l,research scientist,ca,ca,12.141230078175235,remoto total
+107,107,2021,se,ft,Data Engineer,115000,usd,115000,US,100,US,s,data engineer,us,us,11.652696102959753,remoto total
+108,108,2021,se,ft,Data Engineer,150000,usd,150000,US,100,US,m,data engineer,us,us,11.918397239722838,remoto total
+109,109,2021,en,ft,Data Engineer,2250000,inr,30428,IN,100,IN,l,data engineer,in,in,10.323151380044106,remoto total
+110,110,2021,se,ft,Machine Learning Engineer,80000,eur,94564,DE,50,DE,l,machine learning engineer,de,de,11.457042707722556,híbrido
+111,111,2021,se,ft,Director of Data Engineering,82500,gbp,113476,GB,100,GB,m,other,gb,gb,11.639355452196886,remoto total
+112,112,2021,se,ft,Lead Data Engineer,75000,gbp,103160,GB,100,GB,s,other,gb,gb,11.544046153628019,remoto total
+113,113,2021,en,pt,AI Scientist,12000,usd,12000,PK,100,US,m,other,other,us,9.392745258631441,remoto total
+114,114,2021,mi,ft,Data Engineer,38400,eur,45391,NL,100,NL,l,data engineer,other,other,10.723091157048632,remoto total
+115,115,2021,en,ft,Machine Learning Scientist,225000,usd,225000,US,100,US,l,other,us,us,12.323860125621126,remoto total
+116,116,2021,mi,ft,Data Scientist,50000,usd,50000,NG,100,NG,l,data scientist,other,other,10.819798284210286,remoto total
+117,117,2021,mi,ft,Data Science Engineer,34000,eur,40189,GR,100,GR,m,other,other,other,10.601373487443247,remoto total
+118,118,2021,en,ft,Data Analyst,90000,usd,90000,US,100,US,s,data analyst,us,us,11.407576060361786,remoto total
+119,119,2021,mi,ft,Data Engineer,200000,usd,200000,US,100,US,l,data engineer,us,us,12.206077645517674,remoto total
+120,120,2021,mi,ft,Big Data Engineer,60000,usd,60000,ES,50,RO,m,other,other,other,11.002116507732017,híbrido
+121,121,2021,se,ft,Principal Data Engineer,200000,usd,200000,US,100,US,m,other,us,us,12.206077645517674,remoto total
+122,122,2021,en,ft,Data Analyst,50000,usd,50000,US,100,US,m,data analyst,us,us,10.819798284210286,remoto total
+123,123,2021,en,ft,Applied Data Scientist,80000,gbp,110037,GB,0,GB,l,other,gb,gb,11.608581039664324,presencial
+124,124,2021,en,pt,Data Analyst,8760,eur,10354,ES,50,ES,m,data analyst,other,other,9.245224773829685,híbrido
+125,125,2021,mi,ft,Principal Data Scientist,151000,usd,151000,US,100,US,l,other,us,us,11.92504173829169,remoto total
+126,126,2021,se,ft,Machine Learning Scientist,120000,usd,120000,US,50,US,s,other,us,us,11.695255355062795,híbrido
+127,127,2021,mi,ft,Data Scientist,700000,inr,9466,IN,0,IN,s,data scientist,in,in,9.15556734612889,presencial
+128,128,2021,en,ft,Machine Learning Engineer,20000,usd,20000,IN,100,IN,s,machine learning engineer,in,in,9.90353755128617,remoto total
+129,129,2021,se,ft,Lead Data Scientist,3000000,inr,40570,IN,50,IN,l,other,in,in,10.610808804651954,híbrido
+130,130,2021,en,ft,Machine Learning Developer,100000,usd,100000,IQ,50,IQ,s,other,other,other,11.51293546492023,híbrido
+131,131,2021,en,ft,Data Scientist,42000,eur,49646,FR,50,FR,m,data scientist,other,other,10.812693244687052,híbrido
+132,132,2021,mi,ft,Applied Machine Learning Scientist,38400,usd,38400,VN,100,US,m,other,other,us,10.555838779903407,remoto total
+133,133,2021,se,ft,Computer Vision Engineer,24000,usd,24000,BR,100,BR,m,other,other,other,10.085850775128717,remoto total
+134,134,2021,en,ft,Data Scientist,100000,usd,100000,US,0,US,s,data scientist,us,us,11.51293546492023,presencial
+135,135,2021,mi,ft,Data Analyst,90000,usd,90000,US,100,US,m,data analyst,us,us,11.407576060361786,remoto total
+136,136,2021,mi,ft,ML Engineer,7000000,jpy,63711,JP,50,JP,s,other,other,other,11.062128206863923,híbrido
+137,137,2021,mi,ft,ML Engineer,8500000,jpy,77364,JP,50,JP,s,other,other,other,11.256289760923773,híbrido
+138,138,2021,se,ft,Principal Data Scientist,220000,usd,220000,US,0,US,l,other,us,us,12.301387370778713,presencial
+139,139,2021,en,ft,Data Scientist,80000,usd,80000,US,100,US,m,data scientist,us,us,11.289794413577894,remoto total
+140,140,2021,mi,ft,Data Analyst,135000,usd,135000,US,100,US,l,data analyst,us,us,11.813037464800539,remoto total
+141,141,2021,se,ft,Data Science Manager,240000,usd,240000,US,0,US,l,other,us,us,12.388398368982115,presencial
+142,142,2021,se,ft,Data Engineering Manager,150000,usd,150000,US,0,US,l,other,us,us,11.918397239722838,presencial
+143,143,2021,mi,ft,Data Scientist,82500,usd,82500,US,100,US,s,data scientist,us,us,11.320565693461432,remoto total
+144,144,2021,mi,ft,Data Engineer,100000,usd,100000,US,100,US,l,data engineer,us,us,11.51293546492023,remoto total
+145,145,2021,se,ft,Machine Learning Engineer,70000,eur,82744,BE,50,BE,m,machine learning engineer,other,other,11.323518868453043,híbrido
+146,146,2021,mi,ft,Research Scientist,53000,eur,62649,FR,50,FR,m,research scientist,other,other,11.045318960324215,híbrido
+147,147,2021,mi,ft,Data Engineer,90000,usd,90000,US,100,US,l,data engineer,us,us,11.407576060361786,remoto total
+148,148,2021,se,ft,Data Engineering Manager,153000,usd,153000,US,100,US,l,other,us,us,11.938199736300925,remoto total
+149,149,2021,se,ft,Cloud Data Engineer,160000,usd,160000,BR,100,US,s,other,other,us,11.982935344196433,remoto total
+150,150,2021,se,ft,Director of Data Science,168000,usd,168000,JP,0,JP,s,other,other,other,12.031725210748633,presencial
+151,151,2021,mi,ft,Data Scientist,150000,usd,150000,US,100,US,m,data scientist,us,us,11.918397239722838,remoto total
+152,152,2021,mi,ft,Data Scientist,95000,cad,75774,CA,100,CA,l,data scientist,ca,ca,11.235523701926004,remoto total
+153,153,2021,en,ft,Data Scientist,13400,usd,13400,UA,100,UA,l,data scientist,other,other,9.503084610020228,remoto total
+154,154,2021,se,ft,Data Science Manager,144000,usd,144000,US,100,US,l,other,us,us,11.87757552297847,remoto total
+155,155,2021,se,ft,Data Science Engineer,159500,cad,127221,CA,50,CA,l,other,ca,ca,11.753688870907842,híbrido
+156,156,2021,mi,ft,Data Scientist,160000,sgd,119059,SG,100,IL,m,data scientist,other,other,11.687382846707381,remoto total
+157,157,2021,mi,ft,Applied Machine Learning Scientist,423000,usd,423000,US,50,US,l,other,us,us,12.955129822091815,híbrido
+158,158,2021,se,ft,Data Analytics Manager,120000,usd,120000,US,100,US,m,other,us,us,11.695255355062795,remoto total
+159,159,2021,en,ft,Machine Learning Engineer,125000,usd,125000,US,100,US,s,machine learning engineer,us,us,11.736077016252437,remoto total
+160,160,2021,ex,ft,Head of Data,230000,usd,230000,RU,50,RU,l,other,other,other,12.345838935721968,híbrido
+161,161,2021,ex,ft,Head of Data Science,85000,usd,85000,RU,0,RU,m,other,other,other,11.350418300109132,presencial
+162,162,2021,mi,ft,Data Engineer,24000,eur,28369,MT,50,MT,l,data engineer,other,other,10.253087527802897,híbrido
+163,163,2021,en,ft,Data Science Consultant,54000,eur,63831,DE,50,DE,l,other,de,de,11.064009910988117,híbrido
+164,164,2021,ex,ft,Director of Data Science,110000,eur,130026,DE,50,DE,m,other,de,de,11.77549740018035,híbrido
+165,165,2021,se,ft,Data Specialist,165000,usd,165000,US,100,US,l,other,us,us,12.013706813470414,remoto total
+166,166,2021,en,ft,Data Engineer,80000,usd,80000,US,100,US,l,data engineer,us,us,11.289794413577894,remoto total
+167,167,2021,ex,ft,Director of Data Science,250000,usd,250000,US,0,US,l,other,us,us,12.429220196836383,presencial
+168,168,2021,en,ft,BI Data Analyst,55000,usd,55000,US,50,US,s,other,us,us,10.915106645867503,híbrido
+169,169,2021,mi,ft,Data Architect,150000,usd,150000,US,100,US,l,other,us,us,11.918397239722838,remoto total
+170,170,2021,mi,ft,Data Architect,170000,usd,170000,US,100,US,l,other,us,us,12.04355959836804,remoto total
+171,171,2021,mi,ft,Data Engineer,60000,gbp,82528,GB,100,GB,l,data engineer,gb,gb,11.320905025707312,remoto total
+172,172,2021,en,ft,Data Analyst,60000,usd,60000,US,100,US,s,data analyst,us,us,11.002116507732017,remoto total
+173,173,2021,se,ft,Principal Data Scientist,235000,usd,235000,US,100,US,l,other,us,us,12.367345048436391,remoto total
+174,174,2021,se,ft,Research Scientist,51400,eur,60757,PT,50,PT,l,research scientist,other,other,11.01465403977559,híbrido
+175,175,2021,se,ft,Data Engineering Manager,174000,usd,174000,US,100,US,l,other,us,us,12.066816325306588,remoto total
+176,176,2021,mi,ft,Data Scientist,58000,mxn,2859,MX,0,MX,s,data scientist,other,other,7.958576903813898,presencial
+177,177,2021,mi,ft,Data Scientist,30400000,clp,40038,CL,100,CL,l,data scientist,other,other,10.597609258092302,remoto total
+178,178,2021,en,ft,Machine Learning Engineer,81000,usd,81000,US,50,US,s,machine learning engineer,us,us,11.302216779257382,híbrido
+179,179,2021,mi,ft,Data Scientist,420000,inr,5679,IN,100,US,s,data scientist,in,us,8.644706511715198,remoto total
+180,180,2021,mi,ft,Big Data Engineer,1672000,inr,22611,IN,0,IN,l,other,in,in,10.026236017795181,presencial
+181,181,2021,mi,ft,Data Scientist,76760,eur,90734,DE,50,DE,l,data scientist,de,de,11.415698449209124,híbrido
+182,182,2021,mi,ft,Data Engineer,22000,eur,26005,RO,0,US,l,data engineer,other,us,10.166082559611265,presencial
+183,183,2021,se,ft,Finance Data Analyst,45000,gbp,61896,GB,50,GB,l,other,gb,gb,11.033226992231649,híbrido
+184,184,2021,mi,fl,Machine Learning Scientist,12000,usd,12000,PK,50,PK,m,other,other,other,9.392745258631441,híbrido
+185,185,2021,mi,ft,Data Engineer,4000,usd,4000,IR,100,IR,m,data engineer,other,other,8.294299608857235,remoto total
+186,186,2021,se,ft,Data Analytics Engineer,50000,usd,50000,VN,100,GB,m,other,other,gb,10.819798284210286,remoto total
+187,187,2021,ex,ft,Data Science Consultant,59000,eur,69741,FR,100,ES,s,other,other,other,11.152557997765097,remoto total
+188,188,2021,se,ft,Data Engineer,65000,eur,76833,RO,50,GB,s,data engineer,other,gb,11.249402529502674,híbrido
+189,189,2021,mi,ft,Machine Learning Engineer,74000,usd,74000,JP,50,JP,s,machine learning engineer,other,other,11.211833885608513,híbrido
+190,190,2021,se,ft,Data Science Manager,152000,usd,152000,US,100,FR,l,other,us,other,11.931642378754141,remoto total
+191,191,2021,en,ft,Machine Learning Engineer,21844,usd,21844,CO,50,CO,m,machine learning engineer,other,other,9.991727341385536,híbrido
+192,192,2021,mi,ft,Big Data Engineer,18000,usd,18000,MD,0,MD,s,other,other,other,9.798182590890704,presencial
+193,193,2021,se,ft,Data Science Manager,174000,usd,174000,US,100,US,l,other,us,us,12.066816325306588,remoto total
+194,194,2021,se,ft,Research Scientist,120500,cad,96113,CA,50,CA,l,research scientist,ca,ca,11.473290265929538,híbrido
+195,195,2021,mi,ft,Data Scientist,147000,usd,147000,US,50,US,l,data scientist,us,us,11.898194668458823,híbrido
+196,196,2021,en,ft,BI Data Analyst,9272,usd,9272,KE,100,KE,s,other,other,other,9.134862230800225,remoto total
+197,197,2021,se,ft,Machine Learning Engineer,1799997,inr,24342,IN,100,IN,l,machine learning engineer,in,in,10.09999961284942,remoto total
+198,198,2021,se,ft,Data Science Manager,4000000,inr,54094,IN,50,US,l,other,in,us,10.898497039121674,híbrido
+199,199,2021,en,ft,Data Science Consultant,90000,usd,90000,US,100,US,s,other,us,us,11.407576060361786,remoto total
+200,200,2021,mi,ft,Data Scientist,52000,eur,61467,DE,50,AT,m,data scientist,de,other,11.026271993175223,híbrido
+201,201,2021,se,ft,Machine Learning Infrastructure Engineer,195000,usd,195000,US,100,US,m,other,us,us,12.180759965737863,remoto total
+202,202,2021,mi,ft,Data Scientist,32000,eur,37825,ES,100,ES,l,data scientist,other,other,10.5407519758484,remoto total
+203,203,2021,se,ft,Research Scientist,50000,usd,50000,FR,100,US,s,research scientist,other,us,10.819798284210286,remoto total
+204,204,2021,mi,ft,Data Scientist,160000,usd,160000,US,100,US,l,data scientist,us,us,11.982935344196433,remoto total
+205,205,2021,mi,ft,Data Scientist,69600,brl,12901,BR,0,BR,s,data scientist,other,other,9.465137617092187,presencial
+206,206,2021,se,ft,Machine Learning Engineer,200000,usd,200000,US,100,US,l,machine learning engineer,us,us,12.206077645517674,remoto total
+207,207,2021,se,ft,Data Engineer,165000,usd,165000,US,0,US,m,data engineer,us,us,12.013706813470414,presencial
+208,208,2021,mi,fl,Data Engineer,20000,usd,20000,IT,0,US,l,data engineer,other,us,9.90353755128617,presencial
+209,209,2021,se,ft,Data Analytics Manager,120000,usd,120000,US,0,US,l,other,us,us,11.695255355062795,presencial
+210,210,2021,mi,ft,Machine Learning Engineer,21000,eur,24823,SI,50,SI,l,machine learning engineer,other,other,10.119566206128216,híbrido
+211,211,2021,mi,ft,Research Scientist,48000,eur,56738,FR,50,FR,s,research scientist,other,other,10.946217083956563,híbrido
+212,212,2021,mi,ft,Data Engineer,48000,gbp,66022,HK,50,GB,s,data engineer,other,gb,11.097758445150307,híbrido
+213,213,2021,en,ft,Big Data Engineer,435000,inr,5882,IN,0,CH,l,other,in,other,8.679822114864455,presencial
+214,214,2021,en,ft,Machine Learning Engineer,21000,eur,24823,DE,50,DE,m,machine learning engineer,de,de,10.119566206128216,híbrido
+215,215,2021,se,ft,Principal Data Engineer,185000,usd,185000,US,100,US,l,other,us,us,12.128116509451258,remoto total
+216,216,2021,en,pt,Computer Vision Engineer,180000,dkk,28609,DK,50,DK,s,other,other,other,10.261511586044156,híbrido
+217,217,2021,mi,ft,Data Scientist,76760,eur,90734,DE,50,DE,l,data scientist,de,de,11.415698449209124,híbrido
+218,218,2021,mi,ft,Machine Learning Engineer,75000,eur,88654,BE,100,BE,m,machine learning engineer,other,other,11.392507711491088,remoto total
+219,219,2021,se,ft,Data Analytics Manager,140000,usd,140000,US,100,US,l,other,us,us,11.849404844423074,remoto total
+220,220,2021,mi,ft,Machine Learning Engineer,180000,pln,46597,PL,100,PL,l,machine learning engineer,other,other,10.74931290073778,remoto total
+221,221,2021,mi,ft,Data Scientist,85000,gbp,116914,GB,50,GB,l,data scientist,gb,gb,11.669202454027493,híbrido
+222,222,2021,mi,ft,Data Scientist,2500000,inr,33808,IN,0,IN,m,data scientist,in,in,10.42848231821631,presencial
+223,223,2021,mi,ft,Data Scientist,40900,gbp,56256,GB,50,GB,l,data scientist,gb,gb,10.937685756768543,híbrido
+224,224,2021,se,ft,Machine Learning Scientist,225000,usd,225000,US,100,CA,l,other,us,ca,12.323860125621126,remoto total
+225,225,2021,ex,ct,Principal Data Scientist,416000,usd,416000,US,100,US,s,other,us,us,12.938442943086665,remoto total
+226,226,2021,se,ft,Data Scientist,110000,cad,87738,CA,100,CA,s,data scientist,ca,ca,11.38212177734502,remoto total
+227,227,2021,mi,ft,Data Scientist,75000,eur,88654,DE,50,DE,l,data scientist,de,de,11.392507711491088,híbrido
+228,228,2021,se,ft,Data Scientist,135000,usd,135000,US,0,US,l,data scientist,us,us,11.813037464800539,presencial
+229,229,2021,se,ft,Data Analyst,90000,cad,71786,CA,100,CA,m,data analyst,ca,ca,11.181458680147426,remoto total
+230,230,2021,en,ft,Big Data Engineer,1200000,inr,16228,IN,100,IN,l,other,in,in,9.694555044315882,remoto total
+231,231,2021,se,ft,ML Engineer,256000,usd,256000,US,100,US,s,other,us,us,12.45293662970407,remoto total
+232,232,2021,se,ft,Director of Data Engineering,200000,usd,200000,US,100,US,l,other,us,us,12.206077645517674,remoto total
+233,233,2021,se,ft,Data Analyst,200000,usd,200000,US,100,US,l,data analyst,us,us,12.206077645517674,remoto total
+234,234,2021,mi,ft,Data Architect,180000,usd,180000,US,100,US,l,other,us,us,12.100717685412471,remoto total
+235,235,2021,mi,ft,Head of Data Science,110000,usd,110000,US,0,US,s,other,us,us,11.608244735642321,presencial
+236,236,2021,mi,ft,Research Scientist,80000,cad,63810,CA,100,CA,m,research scientist,ca,ca,11.063680868264434,remoto total
+237,237,2021,mi,ft,Data Scientist,39600,eur,46809,ES,100,ES,m,data scientist,other,other,10.753852134294116,remoto total
+238,238,2021,en,ft,Data Scientist,4000,usd,4000,VN,0,VN,m,data scientist,other,other,8.294299608857235,presencial
+239,239,2021,en,ft,Data Engineer,1600000,inr,21637,IN,50,IN,m,data engineer,in,in,9.98220630724752,híbrido
+240,240,2021,se,ft,Data Scientist,130000,cad,103691,CA,100,CA,l,data scientist,ca,ca,11.5491802456294,remoto total
+241,241,2021,mi,ft,Data Analyst,80000,usd,80000,US,100,US,l,data analyst,us,us,11.289794413577894,remoto total
+242,242,2021,mi,ft,Data Engineer,110000,usd,110000,US,100,US,l,data engineer,us,us,11.608244735642321,remoto total
+243,243,2021,se,ft,Data Scientist,165000,usd,165000,US,100,US,l,data scientist,us,us,12.013706813470414,remoto total
+244,244,2021,en,ft,AI Scientist,1335000,inr,18053,IN,100,AS,s,other,in,other,9.8011225458581,remoto total
+245,245,2021,mi,ft,Data Engineer,52500,gbp,72212,GB,50,GB,l,data engineer,gb,gb,11.187375364074551,híbrido
+246,246,2021,en,ft,Data Scientist,31000,eur,36643,FR,50,FR,l,data scientist,other,other,10.5090049831351,híbrido
+247,247,2021,mi,ft,Data Engineer,108000,try,12103,TR,0,TR,m,data engineer,other,other,9.401291255468191,presencial
+248,248,2021,se,ft,Data Engineer,70000,gbp,96282,GB,50,GB,l,data engineer,gb,gb,11.475047050530808,híbrido
+249,249,2021,se,ft,Principal Data Analyst,170000,usd,170000,US,100,US,m,other,us,us,12.04355959836804,remoto total
+250,250,2021,mi,ft,Data Scientist,115000,usd,115000,US,50,US,l,data scientist,us,us,11.652696102959753,híbrido
+251,251,2021,en,ft,Data Scientist,90000,usd,90000,US,100,US,s,data scientist,us,us,11.407576060361786,remoto total
+252,252,2021,ex,ft,Principal Data Engineer,600000,usd,600000,US,100,US,l,other,us,us,13.304686600863562,remoto total
+253,253,2021,en,ft,Data Scientist,2100000,inr,28399,IN,100,IN,m,data scientist,in,in,10.254144424149297,remoto total
+254,254,2021,mi,ft,Data Analyst,93000,usd,93000,US,100,US,l,data analyst,us,us,11.440365524765756,remoto total
+255,255,2021,se,ft,Big Data Architect,125000,cad,99703,CA,50,CA,m,other,ca,ca,11.509961075506213,híbrido
+256,256,2021,mi,ft,Data Engineer,200000,usd,200000,US,100,US,l,data engineer,us,us,12.206077645517674,remoto total
+257,257,2021,se,ft,Principal Data Scientist,147000,eur,173762,DE,100,DE,m,other,de,de,12.065447580772036,remoto total
+258,258,2021,se,ft,Machine Learning Engineer,185000,usd,185000,US,50,US,l,machine learning engineer,us,us,12.128116509451258,híbrido
+259,259,2021,ex,ft,Director of Data Science,120000,eur,141846,DE,0,DE,l,other,de,de,11.862504290912188,presencial
+260,260,2021,mi,ft,Data Scientist,130000,usd,130000,US,50,US,l,data scientist,us,us,11.775297421715827,híbrido
+261,261,2021,se,ft,Data Analyst,54000,eur,63831,DE,50,DE,l,data analyst,de,de,11.064009910988117,híbrido
+262,262,2021,mi,ft,Data Scientist,1250000,inr,16904,IN,100,IN,s,data scientist,in,in,9.735364715141987,remoto total
+263,263,2021,se,ft,Machine Learning Engineer,4900000,inr,66265,IN,0,IN,l,machine learning engineer,in,in,11.101432224123721,presencial
+264,264,2021,mi,ft,Data Scientist,21600,eur,25532,RS,100,DE,s,data scientist,other,de,10.14772701214507,remoto total
+265,265,2021,se,ft,Lead Data Engineer,160000,usd,160000,PR,50,US,s,other,other,us,11.982935344196433,híbrido
+266,266,2021,mi,ft,Data Engineer,93150,usd,93150,US,0,US,m,data engineer,us,us,11.441977111345166,presencial
+267,267,2021,mi,ft,Data Engineer,111775,usd,111775,US,0,US,m,data engineer,us,us,11.624252147606558,presencial
+268,268,2021,mi,ft,Data Engineer,250000,try,28016,TR,100,TR,m,data engineer,other,other,10.240566747777828,remoto total
+269,269,2021,en,ft,Data Engineer,55000,eur,65013,DE,50,DE,m,data engineer,de,de,11.082357910301223,híbrido
+270,270,2021,en,ft,Data Engineer,72500,usd,72500,US,100,US,l,data engineer,us,us,11.19135563385109,remoto total
+271,271,2021,se,ft,Computer Vision Engineer,102000,brl,18907,BR,0,BR,m,other,other,other,9.847340391913127,presencial
+272,272,2021,en,ft,Data Science Consultant,65000,eur,76833,DE,0,DE,l,other,de,de,11.249402529502674,presencial
+273,273,2021,en,ft,Machine Learning Engineer,85000,usd,85000,NL,100,DE,s,machine learning engineer,other,de,11.350418300109132,remoto total
+274,274,2021,se,ft,Data Scientist,65720,eur,77684,FR,50,FR,m,data scientist,other,other,11.260417467526102,híbrido
+275,275,2021,en,ft,Data Scientist,100000,usd,100000,US,100,US,m,data scientist,us,us,11.51293546492023,remoto total
+276,276,2021,en,ft,Data Scientist,58000,usd,58000,US,50,US,l,data scientist,us,us,10.968215530759236,híbrido
+277,277,2021,se,ft,AI Scientist,55000,usd,55000,ES,100,ES,l,other,other,other,10.915106645867503,remoto total
+278,278,2021,se,ft,Data Scientist,180000,try,20171,TR,50,TR,l,data scientist,other,other,9.912050783196616,híbrido
+279,279,2021,en,ft,Business Data Analyst,50000,eur,59102,LU,100,LU,l,other,other,other,10.987036963527192,remoto total
+280,280,2021,mi,ft,Data Engineer,112000,usd,112000,US,100,US,l,data engineer,us,us,11.626263078808801,remoto total
+281,281,2021,en,ft,Research Scientist,100000,usd,100000,JE,0,CN,l,research scientist,other,other,11.51293546492023,presencial
+282,282,2021,mi,pt,Data Engineer,59000,eur,69741,NL,100,NL,l,data engineer,other,other,11.152557997765097,remoto total
+283,283,2021,se,ct,Staff Data Scientist,105000,usd,105000,US,100,US,m,other,us,us,11.561725152903833,remoto total
+284,284,2021,mi,ft,Research Scientist,69999,usd,69999,CZ,50,CZ,l,research scientist,other,other,11.156250521031495,híbrido
+285,285,2021,se,ft,Data Science Manager,7000000,inr,94665,IN,50,IN,l,other,in,in,11.458110186196915,híbrido
+286,286,2021,se,ft,Head of Data,87000,eur,102839,SI,100,SI,l,other,other,other,11.540929661379826,remoto total
+287,287,2021,mi,ft,Data Scientist,109000,usd,109000,US,50,US,l,data scientist,us,us,11.599112335481124,híbrido
+288,288,2021,mi,ft,Machine Learning Engineer,43200,eur,51064,IT,50,IT,l,machine learning engineer,other,other,10.8408546100122,híbrido
+289,289,2022,se,ft,Data Engineer,135000,usd,135000,US,100,US,m,data engineer,us,us,11.813037464800539,remoto total
+290,290,2022,se,ft,Data Analyst,155000,usd,155000,US,100,US,m,data analyst,us,us,11.951186847493476,remoto total
+291,291,2022,se,ft,Data Analyst,120600,usd,120600,US,100,US,m,data analyst,us,us,11.700242855114809,remoto total
+292,292,2022,mi,ft,Data Scientist,130000,usd,130000,US,0,US,m,data scientist,us,us,11.775297421715827,presencial
+293,293,2022,mi,ft,Data Scientist,90000,usd,90000,US,0,US,m,data scientist,us,us,11.407576060361786,presencial
+294,294,2022,mi,ft,Data Engineer,170000,usd,170000,US,100,US,m,data engineer,us,us,12.04355959836804,remoto total
+295,295,2022,mi,ft,Data Engineer,150000,usd,150000,US,100,US,m,data engineer,us,us,11.918397239722838,remoto total
+296,296,2022,se,ft,Data Analyst,102100,usd,102100,US,100,US,m,data analyst,us,us,11.533717798424087,remoto total
+297,297,2022,se,ft,Data Analyst,84900,usd,84900,US,100,US,m,data analyst,us,us,11.349241150793087,remoto total
+298,298,2022,se,ft,Data Scientist,136620,usd,136620,US,100,US,m,data scientist,us,us,11.82496594783159,remoto total
+299,299,2022,se,ft,Data Scientist,99360,usd,99360,US,100,US,m,data scientist,us,us,11.506514961528898,remoto total
+300,300,2022,se,ft,Data Scientist,90000,gbp,117789,GB,0,GB,m,data scientist,gb,gb,11.67665865695283,presencial
+301,301,2022,se,ft,Data Scientist,80000,gbp,104702,GB,0,GB,m,data scientist,gb,gb,11.55888304974326,presencial
+302,302,2022,se,ft,Data Scientist,146000,usd,146000,US,100,US,m,data scientist,us,us,11.891368749982085,remoto total
+303,303,2022,se,ft,Data Scientist,123000,usd,123000,US,100,US,m,data scientist,us,us,11.719947764402807,remoto total
+304,304,2022,en,ft,Data Engineer,40000,gbp,52351,GB,100,GB,m,data engineer,gb,gb,10.865745419962419,remoto total
+305,305,2022,se,ft,Data Analyst,99000,usd,99000,US,0,US,m,data analyst,us,us,11.502885230075814,presencial
+306,306,2022,se,ft,Data Analyst,116000,usd,116000,US,0,US,m,data analyst,us,us,11.661354090741,presencial
+307,307,2022,mi,ft,Data Analyst,106260,usd,106260,US,0,US,m,data analyst,us,us,11.573653610839628,presencial
+308,308,2022,mi,ft,Data Analyst,126500,usd,126500,US,0,US,m,data analyst,us,us,11.748005492256807,presencial
+309,309,2022,ex,ft,Data Engineer,242000,usd,242000,US,100,US,m,data engineer,us,us,12.396697137361691,remoto total
+310,310,2022,ex,ft,Data Engineer,200000,usd,200000,US,100,US,m,data engineer,us,us,12.206077645517674,remoto total
+311,311,2022,mi,ft,Data Scientist,50000,gbp,65438,GB,0,GB,m,data scientist,gb,gb,11.088873689986276,presencial
+312,312,2022,mi,ft,Data Scientist,30000,gbp,39263,GB,0,GB,m,data scientist,gb,gb,10.578063347510637,presencial
+313,313,2022,mi,ft,Data Engineer,60000,gbp,78526,GB,0,GB,m,data engineer,gb,gb,11.271197793678173,presencial
+314,314,2022,mi,ft,Data Engineer,40000,gbp,52351,GB,0,GB,m,data engineer,gb,gb,10.865745419962419,presencial
+315,315,2022,se,ft,Data Scientist,165220,usd,165220,US,100,US,m,data scientist,us,us,12.015039250634192,remoto total
+316,316,2022,en,ft,Data Engineer,35000,gbp,45807,GB,100,GB,m,data engineer,gb,gb,10.732214027337896,remoto total
+317,317,2022,se,ft,Data Scientist,120160,usd,120160,US,100,US,m,data scientist,us,us,11.696587789200349,remoto total
+318,318,2022,se,ft,Data Analyst,90320,usd,90320,US,100,US,m,data analyst,us,us,11.41112527050716,remoto total
+319,319,2022,se,ft,Data Engineer,181940,usd,181940,US,0,US,m,data engineer,us,us,12.111437737678415,presencial
+320,320,2022,se,ft,Data Engineer,132320,usd,132320,US,0,US,m,data engineer,us,us,11.792986067665478,presencial
+321,321,2022,se,ft,Data Engineer,220110,usd,220110,US,0,US,m,data engineer,us,us,12.301887243548784,presencial
+322,322,2022,se,ft,Data Engineer,160080,usd,160080,US,0,US,m,data engineer,us,us,11.983435216114666,presencial
+323,323,2022,se,ft,Data Scientist,180000,usd,180000,US,0,US,l,data scientist,us,us,12.100717685412471,presencial
+324,324,2022,se,ft,Data Scientist,120000,usd,120000,US,0,US,l,data scientist,us,us,11.695255355062795,presencial
+325,325,2022,se,ft,Data Analyst,124190,usd,124190,US,100,US,m,data analyst,us,us,11.729575982087773,remoto total
+326,326,2022,ex,ft,Data Analyst,130000,usd,130000,US,100,US,m,data analyst,us,us,11.775297421715827,remoto total
+327,327,2022,ex,ft,Data Analyst,110000,usd,110000,US,100,US,m,data analyst,us,us,11.608244735642321,remoto total
+328,328,2022,se,ft,Data Analyst,170000,usd,170000,US,100,US,m,data analyst,us,us,12.04355959836804,remoto total
+329,329,2022,mi,ft,Data Analyst,115500,usd,115500,US,100,US,m,data analyst,us,us,11.657034466915164,remoto total
+330,330,2022,se,ft,Data Analyst,112900,usd,112900,US,100,US,m,data analyst,us,us,11.634266607494453,remoto total
+331,331,2022,se,ft,Data Analyst,90320,usd,90320,US,100,US,m,data analyst,us,us,11.41112527050716,remoto total
+332,332,2022,se,ft,Data Analyst,112900,usd,112900,US,100,US,m,data analyst,us,us,11.634266607494453,remoto total
+333,333,2022,se,ft,Data Analyst,90320,usd,90320,US,100,US,m,data analyst,us,us,11.41112527050716,remoto total
+334,334,2022,se,ft,Data Engineer,165400,usd,165400,US,100,US,m,data engineer,us,us,12.016128107502665,remoto total
+335,335,2022,se,ft,Data Engineer,132320,usd,132320,US,100,US,m,data engineer,us,us,11.792986067665478,remoto total
+336,336,2022,mi,ft,Data Analyst,167000,usd,167000,US,100,US,m,data analyst,us,us,12.025755079404917,remoto total
+337,337,2022,se,ft,Data Engineer,243900,usd,243900,US,100,US,m,data engineer,us,us,12.404517684236607,remoto total
+338,338,2022,se,ft,Data Analyst,136600,usd,136600,US,100,US,m,data analyst,us,us,11.824819546736247,remoto total
+339,339,2022,se,ft,Data Analyst,109280,usd,109280,US,100,US,m,data analyst,us,us,11.60167782556802,remoto total
+340,340,2022,se,ft,Data Engineer,128875,usd,128875,US,100,US,m,data engineer,us,us,11.766605980745995,remoto total
+341,341,2022,se,ft,Data Engineer,93700,usd,93700,US,100,US,m,data engineer,us,us,11.447864140528155,remoto total
+342,342,2022,ex,ft,Head of Data Science,224000,usd,224000,US,100,US,m,other,us,us,12.319405795112926,remoto total
+343,343,2022,ex,ft,Head of Data Science,167875,usd,167875,US,100,US,m,other,us,us,12.030980890620903,remoto total
+344,344,2022,ex,ft,Analytics Engineer,175000,usd,175000,US,100,US,m,other,us,us,12.07254696717504,remoto total
+345,345,2022,se,ft,Data Engineer,156600,usd,156600,US,100,US,m,data engineer,us,us,11.961456448214491,remoto total
+346,346,2022,se,ft,Data Engineer,108800,usd,108800,US,0,US,m,data engineer,us,us,11.597275804538212,presencial
+347,347,2022,se,ft,Data Scientist,95550,usd,95550,US,0,US,m,data scientist,us,us,11.467415415338404,presencial
+348,348,2022,se,ft,Data Engineer,113000,usd,113000,US,0,US,l,data engineer,us,us,11.635151947212842,presencial
+349,349,2022,se,ft,Data Analyst,135000,usd,135000,US,100,US,m,data analyst,us,us,11.813037464800539,remoto total
+350,350,2022,se,ft,Data Science Manager,161342,usd,161342,US,100,US,m,other,us,us,11.991287812591057,remoto total
+351,351,2022,se,ft,Data Science Manager,137141,usd,137141,US,100,US,m,other,us,us,11.828772164369175,remoto total
+352,352,2022,se,ft,Data Scientist,167000,usd,167000,US,100,US,m,data scientist,us,us,12.025755079404917,remoto total
+353,353,2022,se,ft,Data Scientist,123000,usd,123000,US,100,US,m,data scientist,us,us,11.719947764402807,remoto total
+354,354,2022,se,ft,Data Engineer,60000,gbp,78526,GB,0,GB,m,data engineer,gb,gb,11.271197793678173,presencial
+355,355,2022,se,ft,Data Engineer,50000,gbp,65438,GB,0,GB,m,data engineer,gb,gb,11.088873689986276,presencial
+356,356,2022,se,ft,Data Scientist,150000,usd,150000,US,0,US,m,data scientist,us,us,11.918397239722838,presencial
+357,357,2022,se,ft,Data Scientist,211500,usd,211500,US,100,US,m,data scientist,us,us,12.261985005589679,remoto total
+358,358,2022,se,ft,Data Architect,192400,usd,192400,CA,100,CA,m,other,ca,ca,12.167337014705433,remoto total
+359,359,2022,se,ft,Data Architect,90700,usd,90700,CA,100,CA,m,other,ca,ca,11.415323661400773,remoto total
+360,360,2022,se,ft,Data Analyst,130000,usd,130000,CA,100,CA,m,data analyst,ca,ca,11.775297421715827,remoto total
+361,361,2022,se,ft,Data Analyst,61300,usd,61300,CA,100,CA,m,data analyst,ca,ca,11.023551435004947,remoto total
+362,362,2022,se,ft,Data Analyst,130000,usd,130000,CA,100,CA,m,data analyst,ca,ca,11.775297421715827,remoto total
+363,363,2022,se,ft,Data Analyst,61300,usd,61300,CA,100,CA,m,data analyst,ca,ca,11.023551435004947,remoto total
+364,364,2022,se,ft,Data Engineer,160000,usd,160000,US,0,US,l,data engineer,us,us,11.982935344196433,presencial
+365,365,2022,se,ft,Data Scientist,138600,usd,138600,US,100,US,m,data scientist,us,us,11.839354580719126,remoto total
+366,366,2022,se,ft,Data Engineer,136000,usd,136000,US,0,US,m,data engineer,us,us,11.820417517632333,presencial
+367,367,2022,mi,ft,Data Analyst,58000,usd,58000,US,0,US,s,data analyst,us,us,10.968215530759236,presencial
+368,368,2022,ex,ft,Analytics Engineer,135000,usd,135000,US,100,US,m,other,us,us,11.813037464800539,remoto total
+369,369,2022,se,ft,Data Scientist,170000,usd,170000,US,100,US,m,data scientist,us,us,12.04355959836804,remoto total
+370,370,2022,se,ft,Data Scientist,123000,usd,123000,US,100,US,m,data scientist,us,us,11.719947764402807,remoto total
+371,371,2022,se,ft,Machine Learning Engineer,189650,usd,189650,US,0,US,m,machine learning engineer,us,us,12.152940819974221,presencial
+372,372,2022,se,ft,Machine Learning Engineer,164996,usd,164996,US,0,US,m,machine learning engineer,us,us,12.013682570899245,presencial
+373,373,2022,mi,ft,ETL Developer,50000,eur,54957,GR,0,GR,m,other,other,other,10.914324536132202,presencial
+374,374,2022,mi,ft,ETL Developer,50000,eur,54957,GR,0,GR,m,other,other,other,10.914324536132202,presencial
+375,375,2022,ex,ft,Lead Data Engineer,150000,cad,118187,CA,100,CA,s,other,ca,ca,11.680031855957703,remoto total
+376,376,2022,se,ft,Data Analyst,132000,usd,132000,US,0,US,m,data analyst,us,us,11.790564777297387,presencial
+377,377,2022,se,ft,Data Engineer,165400,usd,165400,US,100,US,m,data engineer,us,us,12.016128107502665,remoto total
+378,378,2022,se,ft,Data Architect,208775,usd,208775,US,100,US,m,other,us,us,12.249017185855486,remoto total
+379,379,2022,se,ft,Data Architect,147800,usd,147800,US,100,US,m,other,us,us,11.903622053373214,remoto total
+380,380,2022,se,ft,Data Engineer,136994,usd,136994,US,100,US,m,data engineer,us,us,11.827699707793888,remoto total
+381,381,2022,se,ft,Data Engineer,101570,usd,101570,US,100,US,m,data engineer,us,us,11.52851334031188,remoto total
+382,382,2022,se,ft,Data Analyst,128875,usd,128875,US,100,US,m,data analyst,us,us,11.766605980745995,remoto total
+383,383,2022,se,ft,Data Analyst,93700,usd,93700,US,100,US,m,data analyst,us,us,11.447864140528155,remoto total
+384,384,2022,ex,ft,Head of Machine Learning,6000000,inr,79039,IN,50,IN,l,other,in,in,11.277709332421749,híbrido
+385,385,2022,se,ft,Data Engineer,132320,usd,132320,US,100,US,m,data engineer,us,us,11.792986067665478,remoto total
+386,386,2022,en,ft,Machine Learning Engineer,28500,gbp,37300,GB,100,GB,l,machine learning engineer,gb,gb,10.526775414924009,remoto total
+387,387,2022,se,ft,Data Analyst,164000,usd,164000,US,0,US,m,data analyst,us,us,12.00762780434872,presencial
+388,388,2022,se,ft,Data Engineer,155000,usd,155000,US,100,US,m,data engineer,us,us,11.951186847493476,remoto total
+389,389,2022,mi,ft,Machine Learning Engineer,95000,gbp,124333,GB,0,GB,m,machine learning engineer,gb,gb,11.730726771873762,presencial
+390,390,2022,mi,ft,Machine Learning Engineer,75000,gbp,98158,GB,0,GB,m,machine learning engineer,gb,gb,11.494343891883839,presencial
+391,391,2022,mi,ft,AI Scientist,120000,usd,120000,US,0,US,m,other,us,us,11.695255355062795,presencial
+392,392,2022,se,ft,Data Analyst,112900,usd,112900,US,100,US,m,data analyst,us,us,11.634266607494453,remoto total
+393,393,2022,se,ft,Data Analyst,90320,usd,90320,US,100,US,m,data analyst,us,us,11.41112527050716,remoto total
+394,394,2022,se,ft,Data Analytics Manager,145000,usd,145000,US,100,US,m,other,us,us,11.884495917930655,remoto total
+395,395,2022,se,ft,Data Analytics Manager,105400,usd,105400,US,100,US,m,other,us,us,11.565527402710426,remoto total
+396,396,2022,mi,ft,Machine Learning Engineer,80000,eur,87932,FR,100,DE,m,machine learning engineer,other,de,11.384330439839488,remoto total
+397,397,2022,mi,ft,Data Engineer,90000,gbp,117789,GB,0,GB,m,data engineer,gb,gb,11.67665865695283,presencial
+398,398,2022,se,ft,Data Scientist,215300,usd,215300,US,100,US,l,data scientist,us,us,12.279792328023508,remoto total
+399,399,2022,se,ft,Data Scientist,158200,usd,158200,US,100,US,l,data scientist,us,us,11.971621655408228,remoto total
+400,400,2022,se,ft,Data Engineer,209100,usd,209100,US,100,US,l,data engineer,us,us,12.250572667806054,remoto total
+401,401,2022,se,ft,Data Engineer,154600,usd,154600,US,100,US,l,data engineer,us,us,11.948602883419843,remoto total
+402,402,2022,se,ft,Data Analyst,115934,usd,115934,US,0,US,m,data analyst,us,us,11.66078496820908,presencial
+403,403,2022,se,ft,Data Analyst,81666,usd,81666,US,0,US,m,data analyst,us,us,11.310405282483078,presencial
+404,404,2022,se,ft,Data Engineer,175000,usd,175000,US,100,US,m,data engineer,us,us,12.07254696717504,remoto total
+405,405,2022,mi,ft,Data Engineer,75000,gbp,98158,GB,0,GB,m,data engineer,gb,gb,11.494343891883839,presencial
+406,406,2022,mi,ft,Data Analyst,58000,usd,58000,US,0,US,s,data analyst,us,us,10.968215530759236,presencial
+407,407,2022,se,ft,Data Engineer,183600,usd,183600,US,100,US,l,data engineer,us,us,12.120520203776788,remoto total
+408,408,2022,mi,ft,Data Analyst,40000,gbp,52351,GB,100,GB,m,data analyst,gb,gb,10.865745419962419,remoto total
+409,409,2022,se,ft,Data Scientist,180000,usd,180000,US,100,US,m,data scientist,us,us,12.100717685412471,remoto total
+410,410,2022,mi,ft,Data Scientist,55000,gbp,71982,GB,0,GB,m,data scientist,gb,gb,11.184185259008464,presencial
+411,411,2022,mi,ft,Data Scientist,35000,gbp,45807,GB,0,GB,m,data scientist,gb,gb,10.732214027337896,presencial
+412,412,2022,mi,ft,Data Engineer,60000,eur,65949,GR,100,GR,m,data engineer,other,other,11.09665215814546,remoto total
+413,413,2022,mi,ft,Data Engineer,45000,eur,49461,GR,100,GR,m,data engineer,other,other,10.808959976974403,remoto total
+414,414,2022,mi,ft,Data Engineer,60000,gbp,78526,GB,100,GB,m,data engineer,gb,gb,11.271197793678173,remoto total
+415,415,2022,mi,ft,Data Engineer,45000,gbp,58894,GB,100,GB,m,data engineer,gb,gb,10.983511476392884,remoto total
+416,416,2022,se,ft,Data Scientist,260000,usd,260000,US,100,US,m,data scientist,us,us,12.468440756144114,remoto total
+417,417,2022,se,ft,Data Science Engineer,60000,usd,60000,AR,100,MX,l,other,other,other,11.002116507732017,remoto total
+418,418,2022,mi,ft,Data Engineer,63900,usd,63900,US,0,US,m,data engineer,us,us,11.065090289695444,presencial
+419,419,2022,mi,ft,Machine Learning Scientist,160000,usd,160000,US,100,US,l,other,us,us,11.982935344196433,remoto total
+420,420,2022,mi,ft,Machine Learning Scientist,112300,usd,112300,US,100,US,l,other,us,us,11.62893804540639,remoto total
+421,421,2022,mi,ft,Data Science Manager,241000,usd,241000,US,100,US,m,other,us,us,12.392556361841777,remoto total
+422,422,2022,mi,ft,Data Science Manager,159000,usd,159000,US,100,US,m,other,us,us,11.976665770490767,remoto total
+423,423,2022,se,ft,Data Scientist,180000,usd,180000,US,0,US,m,data scientist,us,us,12.100717685412471,presencial
+424,424,2022,se,ft,Data Scientist,80000,usd,80000,US,0,US,m,data scientist,us,us,11.289794413577894,presencial
+425,425,2022,mi,ft,Data Engineer,82900,usd,82900,US,0,US,m,data engineer,us,us,11.325402403776808,presencial
+426,426,2022,se,ft,Data Engineer,100800,usd,100800,US,100,US,l,data engineer,us,us,11.520903555205116,remoto total
+427,427,2022,mi,ft,Data Engineer,45000,eur,49461,ES,100,ES,m,data engineer,other,other,10.808959976974403,remoto total
+428,428,2022,se,ft,Data Scientist,140400,usd,140400,US,0,US,l,data scientist,us,us,11.852257893055606,presencial
+429,429,2022,mi,ft,Data Analyst,30000,gbp,39263,GB,100,GB,m,data analyst,gb,gb,10.578063347510637,remoto total
+430,430,2022,mi,ft,Data Analyst,40000,eur,43966,ES,100,ES,m,data analyst,other,other,10.691194631509694,remoto total
+431,431,2022,mi,ft,Data Analyst,30000,eur,32974,ES,100,ES,m,data analyst,other,other,10.403504977585515,remoto total
+432,432,2022,mi,ft,Data Engineer,80000,eur,87932,ES,100,ES,m,data engineer,other,other,11.384330439839488,remoto total
+433,433,2022,mi,ft,Data Engineer,70000,eur,76940,ES,100,ES,m,data engineer,other,other,11.250794173362452,remoto total
+434,434,2022,mi,ft,Data Engineer,80000,gbp,104702,GB,100,GB,m,data engineer,gb,gb,11.55888304974326,remoto total
+435,435,2022,mi,ft,Data Engineer,70000,gbp,91614,GB,100,GB,m,data engineer,gb,gb,11.425350292714276,remoto total
+436,436,2022,mi,ft,Data Engineer,60000,eur,65949,ES,100,ES,m,data engineer,other,other,11.09665215814546,remoto total
+437,437,2022,mi,ft,Data Engineer,80000,eur,87932,GR,100,GR,m,data engineer,other,other,11.384330439839488,remoto total
+438,438,2022,se,ft,Machine Learning Engineer,189650,usd,189650,US,0,US,m,machine learning engineer,us,us,12.152940819974221,presencial
+439,439,2022,se,ft,Machine Learning Engineer,164996,usd,164996,US,0,US,m,machine learning engineer,us,us,12.013682570899245,presencial
+440,440,2022,mi,ft,Data Analyst,40000,eur,43966,GR,100,GR,m,data analyst,other,other,10.691194631509694,remoto total
+441,441,2022,mi,ft,Data Analyst,30000,eur,32974,GR,100,GR,m,data analyst,other,other,10.403504977585515,remoto total
+442,442,2022,mi,ft,Data Engineer,75000,gbp,98158,GB,100,GB,m,data engineer,gb,gb,11.494343891883839,remoto total
+443,443,2022,mi,ft,Data Engineer,60000,gbp,78526,GB,100,GB,m,data engineer,gb,gb,11.271197793678173,remoto total
+444,444,2022,se,ft,Data Scientist,215300,usd,215300,US,0,US,l,data scientist,us,us,12.279792328023508,presencial
+445,445,2022,mi,ft,Data Engineer,70000,eur,76940,GR,100,GR,m,data engineer,other,other,11.250794173362452,remoto total
+446,446,2022,se,ft,Data Engineer,209100,usd,209100,US,100,US,l,data engineer,us,us,12.250572667806054,remoto total
+447,447,2022,se,ft,Data Engineer,154600,usd,154600,US,100,US,l,data engineer,us,us,11.948602883419843,remoto total
+448,448,2022,se,ft,Data Engineer,180000,usd,180000,US,100,US,m,data engineer,us,us,12.100717685412471,remoto total
+449,449,2022,en,ft,ML Engineer,20000,eur,21983,PT,100,PT,l,other,other,other,9.998070195022075,remoto total
+450,450,2022,se,ft,Data Engineer,80000,usd,80000,US,100,US,m,data engineer,us,us,11.289794413577894,remoto total
+451,451,2022,mi,ft,Machine Learning Developer,100000,cad,78791,CA,100,CA,m,other,ca,ca,11.274566747849539,remoto total
+452,452,2022,ex,ft,Director of Data Science,250000,cad,196979,CA,50,CA,l,other,ca,ca,12.190857479723693,híbrido
+453,453,2022,mi,ft,Machine Learning Engineer,120000,usd,120000,US,100,US,s,machine learning engineer,us,us,11.695255355062795,remoto total
+454,454,2022,en,ft,Computer Vision Engineer,125000,usd,125000,US,0,US,m,other,us,us,11.736077016252437,presencial
+455,455,2022,mi,ft,NLP Engineer,240000,cny,37236,US,50,US,l,other,us,us,10.525058169606785,híbrido
+456,456,2022,se,ft,Data Engineer,105000,usd,105000,US,100,US,m,data engineer,us,us,11.561725152903833,remoto total
+457,457,2022,se,ft,Lead Machine Learning Engineer,80000,eur,87932,DE,0,DE,m,other,de,de,11.384330439839488,presencial
+458,458,2022,mi,ft,Business Data Analyst,1400000,inr,18442,IN,100,IN,m,other,in,in,9.822440173682805,remoto total
+459,459,2022,mi,ft,Data Scientist,2400000,inr,31615,IN,100,IN,l,data scientist,in,in,10.361418600547594,remoto total
+460,460,2022,mi,ft,Machine Learning Infrastructure Engineer,53000,eur,58255,PT,50,PT,l,other,other,other,10.972602370415215,híbrido
+461,461,2022,en,ft,Financial Data Analyst,100000,usd,100000,US,50,US,l,other,us,us,11.51293546492023,híbrido
+462,462,2022,mi,pt,Data Engineer,50000,eur,54957,DE,50,DE,l,data engineer,de,de,10.914324536132202,híbrido
+463,463,2022,en,ft,Data Scientist,1400000,inr,18442,IN,100,IN,m,data scientist,in,in,9.822440173682805,remoto total
+464,464,2022,se,ft,Principal Data Scientist,148000,eur,162674,DE,100,DE,m,other,de,de,11.999509624363185,remoto total
+465,465,2022,en,ft,Data Engineer,120000,usd,120000,US,100,US,m,data engineer,us,us,11.695255355062795,remoto total
+466,466,2022,se,ft,Research Scientist,144000,usd,144000,US,50,US,l,research scientist,us,us,11.87757552297847,híbrido
+467,467,2022,se,ft,Data Scientist,104890,usd,104890,US,100,US,m,data scientist,us,us,11.560676994707515,remoto total
+468,468,2022,se,ft,Data Engineer,100000,usd,100000,US,100,US,m,data engineer,us,us,11.51293546492023,remoto total
+469,469,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+470,470,2022,mi,ft,Data Analyst,135000,usd,135000,US,100,US,m,data analyst,us,us,11.813037464800539,remoto total
+471,471,2022,mi,ft,Data Analyst,50000,usd,50000,US,100,US,m,data analyst,us,us,10.819798284210286,remoto total
+472,472,2022,se,ft,Data Scientist,220000,usd,220000,US,100,US,m,data scientist,us,us,12.301387370778713,remoto total
+473,473,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+474,474,2022,mi,ft,Data Scientist,140000,gbp,183228,GB,0,GB,m,data scientist,gb,gb,12.11849201563776,presencial
+475,475,2022,mi,ft,Data Scientist,70000,gbp,91614,GB,0,GB,m,data scientist,gb,gb,11.425350292714276,presencial
+476,476,2022,se,ft,Data Scientist,185100,usd,185100,US,100,US,m,data scientist,us,us,12.128656901032139,remoto total
+477,477,2022,se,ft,Machine Learning Engineer,220000,usd,220000,US,100,US,m,machine learning engineer,us,us,12.301387370778713,remoto total
+478,478,2022,mi,ft,Data Scientist,200000,usd,200000,US,100,US,m,data scientist,us,us,12.206077645517674,remoto total
+479,479,2022,mi,ft,Data Scientist,120000,usd,120000,US,100,US,m,data scientist,us,us,11.695255355062795,remoto total
+480,480,2022,se,ft,Machine Learning Engineer,120000,usd,120000,AE,100,AE,s,machine learning engineer,other,other,11.695255355062795,remoto total
+481,481,2022,se,ft,Machine Learning Engineer,65000,usd,65000,AE,100,AE,s,machine learning engineer,other,other,11.082157933374816,remoto total
+482,482,2022,ex,ft,Data Engineer,324000,usd,324000,US,100,US,m,data engineer,us,us,12.688501881189456,remoto total
+483,483,2022,ex,ft,Data Engineer,216000,usd,216000,US,100,US,m,data engineer,us,us,12.283038316285214,remoto total
+484,484,2022,se,ft,Data Engineer,210000,usd,210000,US,100,US,m,data engineer,us,us,12.25486757159303,remoto total
+485,485,2022,se,ft,Machine Learning Engineer,120000,usd,120000,US,100,US,m,machine learning engineer,us,us,11.695255355062795,remoto total
+486,486,2022,se,ft,Data Scientist,230000,usd,230000,US,100,US,m,data scientist,us,us,12.345838935721968,remoto total
+487,487,2022,en,pt,Data Scientist,100000,usd,100000,DZ,50,DZ,m,data scientist,other,other,11.51293546492023,híbrido
+488,488,2022,mi,fl,Data Scientist,100000,usd,100000,CA,100,US,m,data scientist,ca,us,11.51293546492023,remoto total
+489,489,2022,en,ct,Applied Machine Learning Scientist,29000,eur,31875,TN,100,CZ,m,other,other,other,10.36960865451764,remoto total
+490,490,2022,se,ft,Head of Data,200000,usd,200000,MY,100,US,m,other,other,us,12.206077645517674,remoto total
+491,491,2022,mi,ft,Principal Data Analyst,75000,usd,75000,CA,100,CA,s,other,ca,ca,11.225256725762893,remoto total
+492,492,2022,mi,ft,Data Scientist,150000,pln,35590,PL,100,PL,l,data scientist,other,other,10.479848075889779,remoto total
+493,493,2022,se,ft,Machine Learning Developer,100000,cad,78791,CA,100,CA,m,other,ca,ca,11.274566747849539,remoto total
+494,494,2022,se,ft,Data Scientist,100000,usd,100000,BR,100,US,m,data scientist,other,us,11.51293546492023,remoto total
+495,495,2022,mi,ft,Machine Learning Scientist,153000,usd,153000,US,50,US,m,other,us,us,11.938199736300925,híbrido
+496,496,2022,en,ft,Data Engineer,52800,eur,58035,PK,100,DE,m,data engineer,other,de,10.968818786635575,remoto total
+497,497,2022,se,ft,Data Scientist,165000,usd,165000,US,100,US,m,data scientist,us,us,12.013706813470414,remoto total
+498,498,2022,se,ft,Research Scientist,85000,eur,93427,FR,50,FR,l,research scientist,other,other,11.444946365157367,híbrido
+499,499,2022,en,ft,Data Scientist,66500,cad,52396,CA,100,CA,l,data scientist,ca,ca,10.866604616761784,remoto total
+500,500,2022,se,ft,Machine Learning Engineer,57000,eur,62651,NL,100,NL,l,machine learning engineer,other,other,11.045350883198553,remoto total
+501,501,2022,mi,ft,Head of Data,30000,eur,32974,EE,100,EE,s,other,other,other,10.403504977585515,remoto total
+502,502,2022,en,ft,Data Scientist,40000,usd,40000,JP,100,MY,l,data scientist,other,other,10.596659732783579,remoto total
+503,503,2022,mi,ft,Machine Learning Engineer,121000,aud,87425,AU,100,AU,l,machine learning engineer,other,other,11.37854800024191,remoto total
+504,504,2022,se,ft,Data Engineer,115000,usd,115000,US,100,US,m,data engineer,us,us,11.652696102959753,remoto total
+505,505,2022,en,ft,Data Scientist,120000,aud,86703,AU,50,AU,m,data scientist,other,other,11.370255297805896,híbrido
+506,506,2022,mi,ft,Applied Machine Learning Scientist,75000,usd,75000,BO,100,US,l,other,other,us,11.225256725762893,remoto total
+507,507,2022,mi,ft,Research Scientist,59000,eur,64849,AT,0,AT,l,research scientist,other,other,11.07983218974459,presencial
+508,508,2022,en,ft,Research Scientist,120000,usd,120000,US,100,US,l,research scientist,us,us,11.695255355062795,remoto total
+509,509,2022,mi,ft,Applied Data Scientist,157000,usd,157000,US,100,US,l,other,us,us,11.964007453736912,remoto total
+510,510,2022,en,ft,Computer Vision Software Engineer,150000,usd,150000,AU,100,AU,s,other,other,other,11.918397239722838,remoto total
+511,511,2022,mi,ft,Business Data Analyst,90000,cad,70912,CA,50,CA,l,other,ca,ca,11.169209052553029,híbrido
+512,512,2022,en,ft,Data Engineer,65000,usd,65000,US,100,US,s,data engineer,us,us,11.082157933374816,remoto total
+513,513,2022,se,ft,Machine Learning Engineer,65000,eur,71444,IE,100,IE,s,machine learning engineer,other,other,11.17668320190307,remoto total
+514,514,2022,en,ft,Data Analytics Engineer,20000,usd,20000,PK,0,PK,m,other,other,other,9.90353755128617,presencial
+515,515,2022,mi,ft,Data Scientist,48000,usd,48000,RU,100,US,s,data scientist,other,us,10.778977123006351,remoto total
+516,516,2022,se,ft,Data Science Manager,152500,usd,152500,US,100,US,m,other,us,us,11.934926432385152,remoto total
+517,517,2022,mi,ft,Data Engineer,62000,eur,68147,FR,100,FR,m,data engineer,other,other,11.129437089665434,remoto total
+518,518,2022,mi,ft,Data Scientist,115000,chf,122346,CH,0,CH,l,data scientist,other,other,11.714616548750014,presencial
+519,519,2022,se,ft,Applied Data Scientist,380000,usd,380000,US,100,US,l,other,us,us,12.847929163278053,remoto total
+520,520,2022,mi,ft,Data Scientist,88000,cad,69336,CA,100,CA,m,data scientist,ca,ca,11.146733953232388,remoto total
+521,521,2022,en,ft,Computer Vision Engineer,10000,usd,10000,PT,100,LU,m,other,other,other,9.210440366976517,remoto total
+522,522,2022,mi,ft,Data Analyst,20000,usd,20000,GR,100,GR,s,data analyst,other,other,9.90353755128617,remoto total
+523,523,2022,se,ft,Data Analytics Lead,405000,usd,405000,US,100,US,l,other,us,us,12.91164481522143,remoto total
+524,524,2022,mi,ft,Data Scientist,135000,usd,135000,US,100,US,l,data scientist,us,us,11.813037464800539,remoto total
+525,525,2022,se,ft,Applied Data Scientist,177000,usd,177000,US,100,US,l,other,us,us,12.083910661257521,remoto total
+526,526,2022,mi,ft,Data Scientist,78000,usd,78000,US,100,US,m,data scientist,us,us,11.264476926102367,remoto total
+527,527,2022,se,ft,Data Analyst,135000,usd,135000,US,100,US,m,data analyst,us,us,11.813037464800539,remoto total
+528,528,2022,se,ft,Data Analyst,100000,usd,100000,US,100,US,m,data analyst,us,us,11.51293546492023,remoto total
+529,529,2022,se,ft,Data Analyst,90320,usd,90320,US,100,US,m,data analyst,us,us,11.41112527050716,remoto total
+530,530,2022,mi,ft,Data Analyst,85000,usd,85000,CA,0,CA,m,data analyst,ca,ca,11.350418300109132,presencial
+531,531,2022,mi,ft,Data Analyst,75000,usd,75000,CA,0,CA,m,data analyst,ca,ca,11.225256725762893,presencial
+532,532,2022,se,ft,Machine Learning Engineer,214000,usd,214000,US,100,US,m,machine learning engineer,us,us,12.273735966890268,remoto total
+533,533,2022,se,ft,Machine Learning Engineer,192600,usd,192600,US,100,US,m,machine learning engineer,us,us,12.16837597044068,remoto total
+534,534,2022,se,ft,Data Architect,266400,usd,266400,US,100,US,m,other,us,us,12.49275797139508,remoto total
+535,535,2022,se,ft,Data Architect,213120,usd,213120,US,100,US,m,other,us,us,12.269615358515345,remoto total
+536,536,2022,se,ft,Data Analyst,112900,usd,112900,US,100,US,m,data analyst,us,us,11.634266607494453,remoto total
+537,537,2022,se,ft,Data Engineer,155000,usd,155000,US,100,US,m,data engineer,us,us,11.951186847493476,remoto total
+538,538,2022,mi,ft,Data Scientist,141300,usd,141300,US,0,US,m,data scientist,us,us,11.85864764578841,presencial
+539,539,2022,mi,ft,Data Scientist,102100,usd,102100,US,0,US,m,data scientist,us,us,11.533717798424087,presencial
+540,540,2022,se,ft,Data Analyst,115934,usd,115934,US,100,US,m,data analyst,us,us,11.66078496820908,remoto total
+541,541,2022,se,ft,Data Analyst,81666,usd,81666,US,100,US,m,data analyst,us,us,11.310405282483078,remoto total
+542,542,2022,mi,ft,Data Engineer,206699,usd,206699,US,0,US,m,data engineer,us,us,12.23902374566986,presencial
+543,543,2022,mi,ft,Data Engineer,99100,usd,99100,US,0,US,m,data engineer,us,us,11.503894811084523,presencial
+544,544,2022,se,ft,Data Engineer,130000,usd,130000,US,100,US,m,data engineer,us,us,11.775297421715827,remoto total
+545,545,2022,se,ft,Data Engineer,115000,usd,115000,US,100,US,m,data engineer,us,us,11.652696102959753,remoto total
+546,546,2022,se,ft,Data Engineer,110500,usd,110500,US,100,US,m,data engineer,us,us,11.612779849672751,remoto total
+547,547,2022,se,ft,Data Engineer,130000,usd,130000,US,100,US,m,data engineer,us,us,11.775297421715827,remoto total
+548,548,2022,se,ft,Data Analyst,99050,usd,99050,US,100,US,m,data analyst,us,us,11.50339014798689,remoto total
+549,549,2022,se,ft,Data Engineer,160000,usd,160000,US,100,US,m,data engineer,us,us,11.982935344196433,remoto total
+550,550,2022,se,ft,Data Scientist,205300,usd,205300,US,0,US,l,data scientist,us,us,12.232232473915767,presencial
+551,551,2022,se,ft,Data Scientist,140400,usd,140400,US,0,US,l,data scientist,us,us,11.852257893055606,presencial
+552,552,2022,se,ft,Data Scientist,176000,usd,176000,US,100,US,m,data scientist,us,us,12.07824495582233,remoto total
+553,553,2022,se,ft,Data Scientist,144000,usd,144000,US,100,US,m,data scientist,us,us,11.87757552297847,remoto total
+554,554,2022,se,ft,Data Engineer,200100,usd,200100,US,100,US,m,data engineer,us,us,12.206577518060588,remoto total
+555,555,2022,se,ft,Data Engineer,160000,usd,160000,US,100,US,m,data engineer,us,us,11.982935344196433,remoto total
+556,556,2022,se,ft,Data Engineer,145000,usd,145000,US,100,US,m,data engineer,us,us,11.884495917930655,remoto total
+557,557,2022,se,ft,Data Engineer,70500,usd,70500,US,0,US,m,data engineer,us,us,11.163382173096926,presencial
+558,558,2022,se,ft,Data Scientist,205300,usd,205300,US,0,US,m,data scientist,us,us,12.232232473915767,presencial
+559,559,2022,se,ft,Data Scientist,140400,usd,140400,US,0,US,m,data scientist,us,us,11.852257893055606,presencial
+560,560,2022,se,ft,Analytics Engineer,205300,usd,205300,US,0,US,m,other,us,us,12.232232473915767,presencial
+561,561,2022,se,ft,Analytics Engineer,184700,usd,184700,US,0,US,m,other,us,us,12.12649358035784,presencial
+562,562,2022,se,ft,Data Engineer,175100,usd,175100,US,100,US,m,data engineer,us,us,12.073118229279908,remoto total
+563,563,2022,se,ft,Data Engineer,140250,usd,140250,US,100,US,m,data engineer,us,us,11.8511889534843,remoto total
+564,564,2022,se,ft,Data Analyst,116150,usd,116150,US,100,US,m,data analyst,us,us,11.6626463477181,remoto total
+565,565,2022,se,ft,Data Engineer,54000,usd,54000,US,0,US,m,data engineer,us,us,10.896757843893464,presencial
+566,566,2022,se,ft,Data Analyst,170000,usd,170000,US,100,US,m,data analyst,us,us,12.04355959836804,remoto total
+567,567,2022,mi,ft,Data Analyst,50000,gbp,65438,GB,0,GB,m,data analyst,gb,gb,11.088873689986276,presencial
+568,568,2022,se,ft,Data Analyst,80000,usd,80000,US,100,US,m,data analyst,us,us,11.289794413577894,remoto total
+569,569,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+570,570,2022,se,ft,Data Scientist,210000,usd,210000,US,100,US,m,data scientist,us,us,12.25486757159303,remoto total
+571,571,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+572,572,2022,se,ft,Data Analyst,100000,usd,100000,US,100,US,m,data analyst,us,us,11.51293546492023,remoto total
+573,573,2022,se,ft,Data Analyst,69000,usd,69000,US,100,US,m,data analyst,us,us,11.141876276228,remoto total
+574,574,2022,se,ft,Data Scientist,210000,usd,210000,US,100,US,m,data scientist,us,us,12.25486757159303,remoto total
+575,575,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+576,576,2022,se,ft,Data Scientist,210000,usd,210000,US,100,US,m,data scientist,us,us,12.25486757159303,remoto total
+577,577,2022,se,ft,Data Analyst,150075,usd,150075,US,100,US,m,data analyst,us,us,11.918897111432843,remoto total
+578,578,2022,se,ft,Data Engineer,100000,usd,100000,US,100,US,m,data engineer,us,us,11.51293546492023,remoto total
+579,579,2022,se,ft,Data Engineer,25000,usd,25000,US,100,US,m,data engineer,us,us,10.12667110305036,remoto total
+580,580,2022,se,ft,Data Analyst,126500,usd,126500,US,100,US,m,data analyst,us,us,11.748005492256807,remoto total
+581,581,2022,se,ft,Data Analyst,106260,usd,106260,US,100,US,m,data analyst,us,us,11.573653610839628,remoto total
+582,582,2022,se,ft,Data Engineer,220110,usd,220110,US,100,US,m,data engineer,us,us,12.301887243548784,remoto total
+583,583,2022,se,ft,Data Engineer,160080,usd,160080,US,100,US,m,data engineer,us,us,11.983435216114666,remoto total
+584,584,2022,se,ft,Data Analyst,105000,usd,105000,US,100,US,m,data analyst,us,us,11.561725152903833,remoto total
+585,585,2022,se,ft,Data Analyst,110925,usd,110925,US,100,US,m,data analyst,us,us,11.616618591306768,remoto total
+586,586,2022,mi,ft,Data Analyst,35000,gbp,45807,GB,0,GB,m,data analyst,gb,gb,10.732214027337896,presencial
+587,587,2022,se,ft,Data Scientist,140000,usd,140000,US,100,US,m,data scientist,us,us,11.849404844423074,remoto total
+588,588,2022,se,ft,Data Analyst,99000,usd,99000,US,0,US,m,data analyst,us,us,11.502885230075814,presencial
+589,589,2022,se,ft,Data Analyst,60000,usd,60000,US,100,US,m,data analyst,us,us,11.002116507732017,remoto total
+590,590,2022,se,ft,Data Architect,192564,usd,192564,US,100,US,m,other,us,us,12.16818903805254,remoto total
+591,591,2022,se,ft,Data Architect,144854,usd,144854,US,100,US,m,other,us,us,11.883488521069127,remoto total
+592,592,2022,se,ft,Data Scientist,230000,usd,230000,US,100,US,m,data scientist,us,us,12.345838935721968,remoto total
+593,593,2022,se,ft,Data Scientist,150000,usd,150000,US,100,US,m,data scientist,us,us,11.918397239722838,remoto total
+594,594,2022,se,ft,Data Analytics Manager,150260,usd,150260,US,100,US,m,other,us,us,11.920129061032112,remoto total
+595,595,2022,se,ft,Data Analytics Manager,109280,usd,109280,US,100,US,m,other,us,us,11.60167782556802,remoto total
+596,596,2022,se,ft,Data Scientist,210000,usd,210000,US,100,US,m,data scientist,us,us,12.25486757159303,remoto total
+597,597,2022,se,ft,Data Analyst,170000,usd,170000,US,100,US,m,data analyst,us,us,12.04355959836804,remoto total
+598,598,2022,mi,ft,Data Scientist,160000,usd,160000,US,100,US,m,data scientist,us,us,11.982935344196433,remoto total
+599,599,2022,mi,ft,Data Scientist,130000,usd,130000,US,100,US,m,data scientist,us,us,11.775297421715827,remoto total
+600,600,2022,en,ft,Data Analyst,67000,usd,67000,CA,0,CA,m,data analyst,ca,ca,11.112462823634855,presencial
+601,601,2022,en,ft,Data Analyst,52000,usd,52000,CA,0,CA,m,data analyst,ca,ca,10.859018228147887,presencial
+602,602,2022,se,ft,Data Engineer,154000,usd,154000,US,100,US,m,data engineer,us,us,11.944714374881176,remoto total
+603,603,2022,se,ft,Data Engineer,126000,usd,126000,US,100,US,m,data engineer,us,us,11.744045122410057,remoto total
+604,604,2022,se,ft,Data Analyst,129000,usd,129000,US,0,US,m,data analyst,us,us,11.767575435251748,presencial
+605,605,2022,se,ft,Data Analyst,150000,usd,150000,US,100,US,m,data analyst,us,us,11.918397239722838,remoto total
+606,606,2022,mi,ft,AI Scientist,200000,usd,200000,IN,100,US,l,other,in,us,12.206077645517674,remoto total
+=======
+,Unnamed: 0,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,job_title_clean,employee_residence_clean,company_location_clean,log_salary_usd
+0,0,2020,MI,FT,Data Scientist,70000,EUR,79833,DE,0,DE,L,Data Scientist,DE,DE,11.28770475786082
+1,1,2020,SE,FT,Machine Learning Scientist,260000,USD,260000,JP,0,JP,S,Other,Other,Other,12.468440756144114
+2,2,2020,SE,FT,Big Data Engineer,85000,GBP,109024,GB,50,GB,M,Other,GB,GB,11.599332492710968
+3,3,2020,MI,FT,Product Data Analyst,20000,USD,20000,HN,0,HN,S,Other,Other,Other,9.90353755128617
+4,4,2020,SE,FT,Machine Learning Engineer,150000,USD,150000,US,50,US,L,Machine Learning Engineer,US,US,11.918397239722838
+5,5,2020,EN,FT,Data Analyst,72000,USD,72000,US,100,US,L,Data Analyst,US,US,11.184435286790631
+6,6,2020,SE,FT,Lead Data Scientist,190000,USD,190000,US,100,US,S,Other,US,US,12.154784614286667
+7,7,2020,MI,FT,Data Scientist,11000000,HUF,35735,HU,50,HU,L,Data Scientist,Other,Other,10.483913863031955
+8,8,2020,MI,FT,Business Data Analyst,135000,USD,135000,US,100,US,L,Other,US,US,11.813037464800539
+9,9,2020,SE,FT,Lead Data Engineer,125000,USD,125000,NZ,50,NZ,S,Other,Other,Other,11.736077016252437
+10,10,2020,EN,FT,Data Scientist,45000,EUR,51321,FR,0,FR,S,Data Scientist,Other,Other,10.845874789131557
+11,11,2020,MI,FT,Data Scientist,3000000,INR,40481,IN,0,IN,L,Data Scientist,IN,IN,10.60861270985548
+12,12,2020,EN,FT,Data Scientist,35000,EUR,39916,FR,0,FR,M,Data Scientist,Other,Other,10.594557577300874
+13,13,2020,MI,FT,Lead Data Analyst,87000,USD,87000,US,100,US,L,Other,US,US,11.373674891823535
+14,14,2020,MI,FT,Data Analyst,85000,USD,85000,US,100,US,L,Data Analyst,US,US,11.350418300109132
+15,15,2020,MI,FT,Data Analyst,8000,USD,8000,PK,50,PK,L,Data Analyst,Other,Other,8.987321812850125
+16,16,2020,EN,FT,Data Engineer,4450000,JPY,41689,JP,100,JP,S,Data Engineer,Other,Other,10.638016570874843
+17,17,2020,SE,FT,Big Data Engineer,100000,EUR,114047,PL,100,GB,S,Other,Other,GB,11.644374691390427
+18,18,2020,EN,FT,Data Science Consultant,423000,INR,5707,IN,50,IN,M,Other,IN,IN,8.649623978596727
+19,19,2020,MI,FT,Lead Data Engineer,56000,USD,56000,PT,100,US,M,Other,Other,US,10.933124826700707
+20,20,2020,MI,FT,Machine Learning Engineer,299000,CNY,43331,CN,0,CN,M,Machine Learning Engineer,Other,Other,10.676646671065457
+21,21,2020,MI,FT,Product Data Analyst,450000,INR,6072,IN,100,IN,L,Other,IN,IN,8.711607995897575
+22,22,2020,SE,FT,Data Engineer,42000,EUR,47899,GR,50,GR,L,Data Engineer,Other,Other,10.776870783399007
+23,23,2020,MI,FT,BI Data Analyst,98000,USD,98000,US,0,US,M,Other,US,US,11.49273296168228
+24,24,2020,MI,FT,Lead Data Scientist,115000,USD,115000,AE,0,AE,L,Other,Other,Other,11.652696102959753
+25,25,2020,EX,FT,Director of Data Science,325000,USD,325000,US,100,US,L,Other,US,US,12.691583538230217
+26,26,2020,EN,FT,Research Scientist,42000,USD,42000,NL,50,NL,L,Research Scientist,Other,Other,10.645448706505872
+27,27,2020,SE,FT,Data Engineer,720000,MXN,33511,MX,0,MX,S,Data Engineer,Other,Other,10.419658862626871
+28,28,2020,EN,CT,Business Data Analyst,100000,USD,100000,US,100,US,L,Other,US,US,11.51293546492023
+29,29,2020,SE,FT,Machine Learning Manager,157000,CAD,117104,CA,50,CA,L,Other,CA,CA,11.6708262472225
+30,30,2020,MI,FT,Data Engineering Manager,51999,EUR,59303,DE,100,DE,S,Other,DE,DE,10.990432036336555
+31,31,2020,EN,FT,Big Data Engineer,70000,USD,70000,US,100,US,L,Other,US,US,11.156264806643742
+32,32,2020,SE,FT,Data Scientist,60000,EUR,68428,GR,100,US,L,Data Scientist,Other,US,11.133551990366144
+33,33,2020,MI,FT,Research Scientist,450000,USD,450000,US,0,US,M,Research Scientist,US,US,13.017005083966255
+34,34,2020,MI,FT,Data Analyst,41000,EUR,46759,FR,50,FR,L,Data Analyst,Other,Other,10.752783415586006
+35,35,2020,MI,FT,Data Engineer,65000,EUR,74130,AT,50,AT,L,Data Engineer,Other,Other,11.213589077374968
+36,36,2020,MI,FT,Data Science Consultant,103000,USD,103000,US,100,US,L,Other,US,US,11.542493975902508
+37,37,2020,EN,FT,Machine Learning Engineer,250000,USD,250000,US,50,US,L,Machine Learning Engineer,US,US,12.429220196836383
+38,38,2020,EN,FT,Data Analyst,10000,USD,10000,NG,100,NG,S,Data Analyst,Other,Other,9.210440366976517
+39,39,2020,EN,FT,Machine Learning Engineer,138000,USD,138000,US,100,US,S,Machine Learning Engineer,US,US,11.835016210489899
+40,40,2020,MI,FT,Data Scientist,45760,USD,45760,PH,100,US,S,Data Scientist,Other,US,10.731187478961756
+41,41,2020,EX,FT,Data Engineering Manager,70000,EUR,79833,ES,50,ES,L,Other,Other,Other,11.28770475786082
+42,42,2020,MI,FT,Machine Learning Infrastructure Engineer,44000,EUR,50180,PT,0,PT,M,Other,Other,Other,10.823391747980118
+43,43,2020,MI,FT,Data Engineer,106000,USD,106000,US,100,US,L,Data Engineer,US,US,11.571203807011969
+44,44,2020,MI,FT,Data Engineer,88000,GBP,112872,GB,50,GB,L,Data Engineer,GB,GB,11.634018571846916
+45,45,2020,EN,PT,ML Engineer,14000,EUR,15966,DE,100,DE,S,Other,DE,DE,9.678279371339702
+46,46,2020,MI,FT,Data Scientist,60000,GBP,76958,GB,100,GB,S,Data Scientist,GB,GB,11.251028091492175
+47,47,2020,SE,FT,Data Engineer,188000,USD,188000,US,100,US,L,Data Engineer,US,US,12.144202560946876
+48,48,2020,MI,FT,Data Scientist,105000,USD,105000,US,100,US,L,Data Scientist,US,US,11.561725152903833
+49,49,2020,MI,FT,Data Engineer,61500,EUR,70139,FR,50,FR,L,Data Engineer,Other,Other,11.15824852369417
+50,50,2020,EN,FT,Data Analyst,450000,INR,6072,IN,0,IN,S,Data Analyst,IN,IN,8.711607995897575
+51,51,2020,EN,FT,Data Analyst,91000,USD,91000,US,100,US,L,Data Analyst,US,US,11.418625774449598
+52,52,2020,EN,FT,AI Scientist,300000,DKK,45896,DK,50,DK,S,Other,Other,Other,10.734155034435489
+53,53,2020,EN,FT,Data Engineer,48000,EUR,54742,PK,100,DE,L,Data Engineer,Other,DE,10.910404785623465
+54,54,2020,SE,FL,Computer Vision Engineer,60000,USD,60000,RU,100,US,S,Other,Other,US,11.002116507732017
+55,55,2020,SE,FT,Principal Data Scientist,130000,EUR,148261,DE,100,DE,M,Other,DE,DE,11.906736257934913
+56,56,2020,MI,FT,Data Scientist,34000,EUR,38776,ES,100,ES,M,Data Scientist,Other,Other,10.565582566340604
+57,57,2020,MI,FT,Data Scientist,118000,USD,118000,US,100,US,M,Data Scientist,US,US,11.678448377988165
+58,58,2020,SE,FT,Data Scientist,120000,USD,120000,US,50,US,L,Data Scientist,US,US,11.695255355062795
+59,59,2020,MI,FT,Data Scientist,138350,USD,138350,US,100,US,M,Data Scientist,US,US,11.837549213233764
+60,60,2020,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Data Engineer,US,US,11.608244735642321
+61,61,2020,MI,FT,Data Engineer,130800,USD,130800,ES,100,US,M,Data Engineer,Other,US,11.781432363235949
+62,62,2020,EN,PT,Data Scientist,19000,EUR,21669,IT,50,IT,S,Data Scientist,Other,Other,9.983684094530405
+63,63,2020,SE,FT,Data Scientist,412000,USD,412000,US,100,US,L,Data Scientist,US,US,12.928781055513184
+64,64,2020,SE,FT,Machine Learning Engineer,40000,EUR,45618,HR,100,HR,S,Machine Learning Engineer,Other,Other,10.728079575387694
+65,65,2020,EN,FT,Data Scientist,55000,EUR,62726,DE,50,DE,S,Data Scientist,DE,DE,11.046547255939533
+66,66,2020,EN,FT,Data Scientist,43200,EUR,49268,DE,0,DE,S,Data Scientist,DE,DE,10.805050359005671
+67,67,2020,SE,FT,Data Science Manager,190200,USD,190200,US,100,US,M,Other,US,US,12.155836686703159
+68,68,2020,EN,FT,Data Scientist,105000,USD,105000,US,100,US,S,Data Scientist,US,US,11.561725152903833
+69,69,2020,SE,FT,Data Scientist,80000,EUR,91237,AT,0,AT,S,Data Scientist,Other,Other,11.42122675594764
+70,70,2020,MI,FT,Data Scientist,55000,EUR,62726,FR,50,LU,S,Data Scientist,Other,Other,11.046547255939533
+71,71,2020,MI,FT,Data Scientist,37000,EUR,42197,FR,50,FR,S,Data Scientist,Other,Other,10.650128105536073
+72,72,2021,EN,FT,Research Scientist,60000,GBP,82528,GB,50,GB,L,Research Scientist,GB,GB,11.320905025707312
+73,73,2021,EX,FT,BI Data Analyst,150000,USD,150000,IN,100,US,L,Other,IN,US,11.918397239722838
+74,74,2021,EX,FT,Head of Data,235000,USD,235000,US,100,US,L,Other,US,US,12.367345048436391
+75,75,2021,SE,FT,Data Scientist,45000,EUR,53192,FR,50,FR,L,Data Scientist,Other,Other,10.881682087725098
+76,76,2021,MI,FT,BI Data Analyst,100000,USD,100000,US,100,US,M,Other,US,US,11.51293546492023
+77,77,2021,MI,PT,3D Computer Vision Researcher,400000,INR,5409,IN,50,IN,M,Other,IN,IN,8.596004371840527
+78,78,2021,MI,CT,ML Engineer,270000,USD,270000,US,100,US,L,Other,US,US,12.506180941677357
+79,79,2021,EN,FT,Data Analyst,80000,USD,80000,US,100,US,M,Data Analyst,US,US,11.289794413577894
+80,80,2021,SE,FT,Data Analytics Engineer,67000,EUR,79197,DE,100,DE,L,Other,DE,DE,11.279706324958415
+81,81,2021,MI,FT,Data Engineer,140000,USD,140000,US,100,US,L,Data Engineer,US,US,11.849404844423074
+82,82,2021,MI,FT,Applied Data Scientist,68000,CAD,54238,GB,50,CA,L,Other,GB,CA,10.90115548586615
+83,83,2021,MI,FT,Machine Learning Engineer,40000,EUR,47282,ES,100,ES,S,Machine Learning Engineer,Other,Other,10.76390610184365
+84,84,2021,EX,FT,Director of Data Science,130000,EUR,153667,IT,100,PL,L,Other,Other,Other,11.94254971006262
+85,85,2021,MI,FT,Data Engineer,110000,PLN,28476,PL,100,PL,L,Data Engineer,Other,Other,10.25685202289892
+86,86,2021,EN,FT,Data Analyst,50000,EUR,59102,FR,50,FR,M,Data Analyst,Other,Other,10.987036963527192
+87,87,2021,MI,FT,Data Analytics Engineer,110000,USD,110000,US,100,US,L,Other,US,US,11.608244735642321
+88,88,2021,SE,FT,Lead Data Analyst,170000,USD,170000,US,100,US,L,Other,US,US,12.04355959836804
+89,89,2021,SE,FT,Data Analyst,80000,USD,80000,BG,100,US,S,Data Analyst,Other,US,11.289794413577894
+90,90,2021,SE,FT,Marketing Data Analyst,75000,EUR,88654,GR,100,DK,L,Other,Other,Other,11.392507711491088
+91,91,2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,100,DE,S,Other,DE,DE,11.249402529502674
+92,92,2021,MI,FT,Lead Data Analyst,1450000,INR,19609,IN,100,IN,L,Other,IN,IN,9.883794919190391
+93,93,2021,SE,FT,Lead Data Engineer,276000,USD,276000,US,0,US,L,Other,US,US,12.52815976788113
+94,94,2021,EN,FT,Data Scientist,2200000,INR,29751,IN,50,IN,L,Data Scientist,IN,IN,10.300651635604906
+95,95,2021,MI,FT,Cloud Data Engineer,120000,SGD,89294,SG,50,SG,L,Other,Other,Other,11.3997007742556
+96,96,2021,EN,PT,AI Scientist,12000,USD,12000,BR,100,US,S,Other,Other,US,9.392745258631441
+97,97,2021,MI,FT,Financial Data Analyst,450000,USD,450000,US,100,US,L,Other,US,US,13.017005083966255
+98,98,2021,EN,FT,Computer Vision Software Engineer,70000,USD,70000,US,100,US,M,Other,US,US,11.156264806643742
+99,99,2021,MI,FT,Computer Vision Software Engineer,81000,EUR,95746,DE,100,US,S,Other,DE,US,11.469464574959359
+100,100,2021,MI,FT,Data Analyst,75000,USD,75000,US,0,US,L,Data Analyst,US,US,11.225256725762893
+101,101,2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,L,Data Engineer,US,US,11.918397239722838
+102,102,2021,MI,FT,BI Data Analyst,11000000,HUF,36259,HU,50,US,L,Other,Other,US,10.498470484308841
+103,103,2021,MI,FT,Data Analyst,62000,USD,62000,US,0,US,L,Data Analyst,US,US,11.034905792929415
+104,104,2021,MI,FT,Data Scientist,73000,USD,73000,US,0,US,L,Data Scientist,US,US,11.19822841866684
+105,105,2021,MI,FT,Data Analyst,37456,GBP,51519,GB,50,GB,L,Data Analyst,GB,GB,10.849725360778235
+106,106,2021,MI,FT,Research Scientist,235000,CAD,187442,CA,100,CA,L,Research Scientist,CA,CA,12.141230078175235
+107,107,2021,SE,FT,Data Engineer,115000,USD,115000,US,100,US,S,Data Engineer,US,US,11.652696102959753
+108,108,2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M,Data Engineer,US,US,11.918397239722838
+109,109,2021,EN,FT,Data Engineer,2250000,INR,30428,IN,100,IN,L,Data Engineer,IN,IN,10.323151380044106
+110,110,2021,SE,FT,Machine Learning Engineer,80000,EUR,94564,DE,50,DE,L,Machine Learning Engineer,DE,DE,11.457042707722556
+111,111,2021,SE,FT,Director of Data Engineering,82500,GBP,113476,GB,100,GB,M,Other,GB,GB,11.639355452196886
+112,112,2021,SE,FT,Lead Data Engineer,75000,GBP,103160,GB,100,GB,S,Other,GB,GB,11.544046153628019
+113,113,2021,EN,PT,AI Scientist,12000,USD,12000,PK,100,US,M,Other,Other,US,9.392745258631441
+114,114,2021,MI,FT,Data Engineer,38400,EUR,45391,NL,100,NL,L,Data Engineer,Other,Other,10.723091157048632
+115,115,2021,EN,FT,Machine Learning Scientist,225000,USD,225000,US,100,US,L,Other,US,US,12.323860125621126
+116,116,2021,MI,FT,Data Scientist,50000,USD,50000,NG,100,NG,L,Data Scientist,Other,Other,10.819798284210286
+117,117,2021,MI,FT,Data Science Engineer,34000,EUR,40189,GR,100,GR,M,Other,Other,Other,10.601373487443247
+118,118,2021,EN,FT,Data Analyst,90000,USD,90000,US,100,US,S,Data Analyst,US,US,11.407576060361786
+119,119,2021,MI,FT,Data Engineer,200000,USD,200000,US,100,US,L,Data Engineer,US,US,12.206077645517674
+120,120,2021,MI,FT,Big Data Engineer,60000,USD,60000,ES,50,RO,M,Other,Other,Other,11.002116507732017
+121,121,2021,SE,FT,Principal Data Engineer,200000,USD,200000,US,100,US,M,Other,US,US,12.206077645517674
+122,122,2021,EN,FT,Data Analyst,50000,USD,50000,US,100,US,M,Data Analyst,US,US,10.819798284210286
+123,123,2021,EN,FT,Applied Data Scientist,80000,GBP,110037,GB,0,GB,L,Other,GB,GB,11.608581039664324
+124,124,2021,EN,PT,Data Analyst,8760,EUR,10354,ES,50,ES,M,Data Analyst,Other,Other,9.245224773829685
+125,125,2021,MI,FT,Principal Data Scientist,151000,USD,151000,US,100,US,L,Other,US,US,11.92504173829169
+126,126,2021,SE,FT,Machine Learning Scientist,120000,USD,120000,US,50,US,S,Other,US,US,11.695255355062795
+127,127,2021,MI,FT,Data Scientist,700000,INR,9466,IN,0,IN,S,Data Scientist,IN,IN,9.15556734612889
+128,128,2021,EN,FT,Machine Learning Engineer,20000,USD,20000,IN,100,IN,S,Machine Learning Engineer,IN,IN,9.90353755128617
+129,129,2021,SE,FT,Lead Data Scientist,3000000,INR,40570,IN,50,IN,L,Other,IN,IN,10.610808804651954
+130,130,2021,EN,FT,Machine Learning Developer,100000,USD,100000,IQ,50,IQ,S,Other,Other,Other,11.51293546492023
+131,131,2021,EN,FT,Data Scientist,42000,EUR,49646,FR,50,FR,M,Data Scientist,Other,Other,10.812693244687052
+132,132,2021,MI,FT,Applied Machine Learning Scientist,38400,USD,38400,VN,100,US,M,Other,Other,US,10.555838779903407
+133,133,2021,SE,FT,Computer Vision Engineer,24000,USD,24000,BR,100,BR,M,Other,Other,Other,10.085850775128717
+134,134,2021,EN,FT,Data Scientist,100000,USD,100000,US,0,US,S,Data Scientist,US,US,11.51293546492023
+135,135,2021,MI,FT,Data Analyst,90000,USD,90000,US,100,US,M,Data Analyst,US,US,11.407576060361786
+136,136,2021,MI,FT,ML Engineer,7000000,JPY,63711,JP,50,JP,S,Other,Other,Other,11.062128206863923
+137,137,2021,MI,FT,ML Engineer,8500000,JPY,77364,JP,50,JP,S,Other,Other,Other,11.256289760923773
+138,138,2021,SE,FT,Principal Data Scientist,220000,USD,220000,US,0,US,L,Other,US,US,12.301387370778713
+139,139,2021,EN,FT,Data Scientist,80000,USD,80000,US,100,US,M,Data Scientist,US,US,11.289794413577894
+140,140,2021,MI,FT,Data Analyst,135000,USD,135000,US,100,US,L,Data Analyst,US,US,11.813037464800539
+141,141,2021,SE,FT,Data Science Manager,240000,USD,240000,US,0,US,L,Other,US,US,12.388398368982115
+142,142,2021,SE,FT,Data Engineering Manager,150000,USD,150000,US,0,US,L,Other,US,US,11.918397239722838
+143,143,2021,MI,FT,Data Scientist,82500,USD,82500,US,100,US,S,Data Scientist,US,US,11.320565693461432
+144,144,2021,MI,FT,Data Engineer,100000,USD,100000,US,100,US,L,Data Engineer,US,US,11.51293546492023
+145,145,2021,SE,FT,Machine Learning Engineer,70000,EUR,82744,BE,50,BE,M,Machine Learning Engineer,Other,Other,11.323518868453043
+146,146,2021,MI,FT,Research Scientist,53000,EUR,62649,FR,50,FR,M,Research Scientist,Other,Other,11.045318960324215
+147,147,2021,MI,FT,Data Engineer,90000,USD,90000,US,100,US,L,Data Engineer,US,US,11.407576060361786
+148,148,2021,SE,FT,Data Engineering Manager,153000,USD,153000,US,100,US,L,Other,US,US,11.938199736300925
+149,149,2021,SE,FT,Cloud Data Engineer,160000,USD,160000,BR,100,US,S,Other,Other,US,11.982935344196433
+150,150,2021,SE,FT,Director of Data Science,168000,USD,168000,JP,0,JP,S,Other,Other,Other,12.031725210748633
+151,151,2021,MI,FT,Data Scientist,150000,USD,150000,US,100,US,M,Data Scientist,US,US,11.918397239722838
+152,152,2021,MI,FT,Data Scientist,95000,CAD,75774,CA,100,CA,L,Data Scientist,CA,CA,11.235523701926004
+153,153,2021,EN,FT,Data Scientist,13400,USD,13400,UA,100,UA,L,Data Scientist,Other,Other,9.503084610020228
+154,154,2021,SE,FT,Data Science Manager,144000,USD,144000,US,100,US,L,Other,US,US,11.87757552297847
+155,155,2021,SE,FT,Data Science Engineer,159500,CAD,127221,CA,50,CA,L,Other,CA,CA,11.753688870907842
+156,156,2021,MI,FT,Data Scientist,160000,SGD,119059,SG,100,IL,M,Data Scientist,Other,Other,11.687382846707381
+157,157,2021,MI,FT,Applied Machine Learning Scientist,423000,USD,423000,US,50,US,L,Other,US,US,12.955129822091815
+158,158,2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,100,US,M,Other,US,US,11.695255355062795
+159,159,2021,EN,FT,Machine Learning Engineer,125000,USD,125000,US,100,US,S,Machine Learning Engineer,US,US,11.736077016252437
+160,160,2021,EX,FT,Head of Data,230000,USD,230000,RU,50,RU,L,Other,Other,Other,12.345838935721968
+161,161,2021,EX,FT,Head of Data Science,85000,USD,85000,RU,0,RU,M,Other,Other,Other,11.350418300109132
+162,162,2021,MI,FT,Data Engineer,24000,EUR,28369,MT,50,MT,L,Data Engineer,Other,Other,10.253087527802897
+163,163,2021,EN,FT,Data Science Consultant,54000,EUR,63831,DE,50,DE,L,Other,DE,DE,11.064009910988117
+164,164,2021,EX,FT,Director of Data Science,110000,EUR,130026,DE,50,DE,M,Other,DE,DE,11.77549740018035
+165,165,2021,SE,FT,Data Specialist,165000,USD,165000,US,100,US,L,Other,US,US,12.013706813470414
+166,166,2021,EN,FT,Data Engineer,80000,USD,80000,US,100,US,L,Data Engineer,US,US,11.289794413577894
+167,167,2021,EX,FT,Director of Data Science,250000,USD,250000,US,0,US,L,Other,US,US,12.429220196836383
+168,168,2021,EN,FT,BI Data Analyst,55000,USD,55000,US,50,US,S,Other,US,US,10.915106645867503
+169,169,2021,MI,FT,Data Architect,150000,USD,150000,US,100,US,L,Other,US,US,11.918397239722838
+170,170,2021,MI,FT,Data Architect,170000,USD,170000,US,100,US,L,Other,US,US,12.04355959836804
+171,171,2021,MI,FT,Data Engineer,60000,GBP,82528,GB,100,GB,L,Data Engineer,GB,GB,11.320905025707312
+172,172,2021,EN,FT,Data Analyst,60000,USD,60000,US,100,US,S,Data Analyst,US,US,11.002116507732017
+173,173,2021,SE,FT,Principal Data Scientist,235000,USD,235000,US,100,US,L,Other,US,US,12.367345048436391
+174,174,2021,SE,FT,Research Scientist,51400,EUR,60757,PT,50,PT,L,Research Scientist,Other,Other,11.01465403977559
+175,175,2021,SE,FT,Data Engineering Manager,174000,USD,174000,US,100,US,L,Other,US,US,12.066816325306588
+176,176,2021,MI,FT,Data Scientist,58000,MXN,2859,MX,0,MX,S,Data Scientist,Other,Other,7.958576903813898
+177,177,2021,MI,FT,Data Scientist,30400000,CLP,40038,CL,100,CL,L,Data Scientist,Other,Other,10.597609258092302
+178,178,2021,EN,FT,Machine Learning Engineer,81000,USD,81000,US,50,US,S,Machine Learning Engineer,US,US,11.302216779257382
+179,179,2021,MI,FT,Data Scientist,420000,INR,5679,IN,100,US,S,Data Scientist,IN,US,8.644706511715198
+180,180,2021,MI,FT,Big Data Engineer,1672000,INR,22611,IN,0,IN,L,Other,IN,IN,10.026236017795181
+181,181,2021,MI,FT,Data Scientist,76760,EUR,90734,DE,50,DE,L,Data Scientist,DE,DE,11.415698449209124
+182,182,2021,MI,FT,Data Engineer,22000,EUR,26005,RO,0,US,L,Data Engineer,Other,US,10.166082559611265
+183,183,2021,SE,FT,Finance Data Analyst,45000,GBP,61896,GB,50,GB,L,Other,GB,GB,11.033226992231649
+184,184,2021,MI,FL,Machine Learning Scientist,12000,USD,12000,PK,50,PK,M,Other,Other,Other,9.392745258631441
+185,185,2021,MI,FT,Data Engineer,4000,USD,4000,IR,100,IR,M,Data Engineer,Other,Other,8.294299608857235
+186,186,2021,SE,FT,Data Analytics Engineer,50000,USD,50000,VN,100,GB,M,Other,Other,GB,10.819798284210286
+187,187,2021,EX,FT,Data Science Consultant,59000,EUR,69741,FR,100,ES,S,Other,Other,Other,11.152557997765097
+188,188,2021,SE,FT,Data Engineer,65000,EUR,76833,RO,50,GB,S,Data Engineer,Other,GB,11.249402529502674
+189,189,2021,MI,FT,Machine Learning Engineer,74000,USD,74000,JP,50,JP,S,Machine Learning Engineer,Other,Other,11.211833885608513
+190,190,2021,SE,FT,Data Science Manager,152000,USD,152000,US,100,FR,L,Other,US,Other,11.931642378754141
+191,191,2021,EN,FT,Machine Learning Engineer,21844,USD,21844,CO,50,CO,M,Machine Learning Engineer,Other,Other,9.991727341385536
+192,192,2021,MI,FT,Big Data Engineer,18000,USD,18000,MD,0,MD,S,Other,Other,Other,9.798182590890704
+193,193,2021,SE,FT,Data Science Manager,174000,USD,174000,US,100,US,L,Other,US,US,12.066816325306588
+194,194,2021,SE,FT,Research Scientist,120500,CAD,96113,CA,50,CA,L,Research Scientist,CA,CA,11.473290265929538
+195,195,2021,MI,FT,Data Scientist,147000,USD,147000,US,50,US,L,Data Scientist,US,US,11.898194668458823
+196,196,2021,EN,FT,BI Data Analyst,9272,USD,9272,KE,100,KE,S,Other,Other,Other,9.134862230800225
+197,197,2021,SE,FT,Machine Learning Engineer,1799997,INR,24342,IN,100,IN,L,Machine Learning Engineer,IN,IN,10.09999961284942
+198,198,2021,SE,FT,Data Science Manager,4000000,INR,54094,IN,50,US,L,Other,IN,US,10.898497039121674
+199,199,2021,EN,FT,Data Science Consultant,90000,USD,90000,US,100,US,S,Other,US,US,11.407576060361786
+200,200,2021,MI,FT,Data Scientist,52000,EUR,61467,DE,50,AT,M,Data Scientist,DE,Other,11.026271993175223
+201,201,2021,SE,FT,Machine Learning Infrastructure Engineer,195000,USD,195000,US,100,US,M,Other,US,US,12.180759965737863
+202,202,2021,MI,FT,Data Scientist,32000,EUR,37825,ES,100,ES,L,Data Scientist,Other,Other,10.5407519758484
+203,203,2021,SE,FT,Research Scientist,50000,USD,50000,FR,100,US,S,Research Scientist,Other,US,10.819798284210286
+204,204,2021,MI,FT,Data Scientist,160000,USD,160000,US,100,US,L,Data Scientist,US,US,11.982935344196433
+205,205,2021,MI,FT,Data Scientist,69600,BRL,12901,BR,0,BR,S,Data Scientist,Other,Other,9.465137617092187
+206,206,2021,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,L,Machine Learning Engineer,US,US,12.206077645517674
+207,207,2021,SE,FT,Data Engineer,165000,USD,165000,US,0,US,M,Data Engineer,US,US,12.013706813470414
+208,208,2021,MI,FL,Data Engineer,20000,USD,20000,IT,0,US,L,Data Engineer,Other,US,9.90353755128617
+209,209,2021,SE,FT,Data Analytics Manager,120000,USD,120000,US,0,US,L,Other,US,US,11.695255355062795
+210,210,2021,MI,FT,Machine Learning Engineer,21000,EUR,24823,SI,50,SI,L,Machine Learning Engineer,Other,Other,10.119566206128216
+211,211,2021,MI,FT,Research Scientist,48000,EUR,56738,FR,50,FR,S,Research Scientist,Other,Other,10.946217083956563
+212,212,2021,MI,FT,Data Engineer,48000,GBP,66022,HK,50,GB,S,Data Engineer,Other,GB,11.097758445150307
+213,213,2021,EN,FT,Big Data Engineer,435000,INR,5882,IN,0,CH,L,Other,IN,Other,8.679822114864455
+214,214,2021,EN,FT,Machine Learning Engineer,21000,EUR,24823,DE,50,DE,M,Machine Learning Engineer,DE,DE,10.119566206128216
+215,215,2021,SE,FT,Principal Data Engineer,185000,USD,185000,US,100,US,L,Other,US,US,12.128116509451258
+216,216,2021,EN,PT,Computer Vision Engineer,180000,DKK,28609,DK,50,DK,S,Other,Other,Other,10.261511586044156
+217,217,2021,MI,FT,Data Scientist,76760,EUR,90734,DE,50,DE,L,Data Scientist,DE,DE,11.415698449209124
+218,218,2021,MI,FT,Machine Learning Engineer,75000,EUR,88654,BE,100,BE,M,Machine Learning Engineer,Other,Other,11.392507711491088
+219,219,2021,SE,FT,Data Analytics Manager,140000,USD,140000,US,100,US,L,Other,US,US,11.849404844423074
+220,220,2021,MI,FT,Machine Learning Engineer,180000,PLN,46597,PL,100,PL,L,Machine Learning Engineer,Other,Other,10.74931290073778
+221,221,2021,MI,FT,Data Scientist,85000,GBP,116914,GB,50,GB,L,Data Scientist,GB,GB,11.669202454027493
+222,222,2021,MI,FT,Data Scientist,2500000,INR,33808,IN,0,IN,M,Data Scientist,IN,IN,10.42848231821631
+223,223,2021,MI,FT,Data Scientist,40900,GBP,56256,GB,50,GB,L,Data Scientist,GB,GB,10.937685756768543
+224,224,2021,SE,FT,Machine Learning Scientist,225000,USD,225000,US,100,CA,L,Other,US,CA,12.323860125621126
+225,225,2021,EX,CT,Principal Data Scientist,416000,USD,416000,US,100,US,S,Other,US,US,12.938442943086665
+226,226,2021,SE,FT,Data Scientist,110000,CAD,87738,CA,100,CA,S,Data Scientist,CA,CA,11.38212177734502
+227,227,2021,MI,FT,Data Scientist,75000,EUR,88654,DE,50,DE,L,Data Scientist,DE,DE,11.392507711491088
+228,228,2021,SE,FT,Data Scientist,135000,USD,135000,US,0,US,L,Data Scientist,US,US,11.813037464800539
+229,229,2021,SE,FT,Data Analyst,90000,CAD,71786,CA,100,CA,M,Data Analyst,CA,CA,11.181458680147426
+230,230,2021,EN,FT,Big Data Engineer,1200000,INR,16228,IN,100,IN,L,Other,IN,IN,9.694555044315882
+231,231,2021,SE,FT,ML Engineer,256000,USD,256000,US,100,US,S,Other,US,US,12.45293662970407
+232,232,2021,SE,FT,Director of Data Engineering,200000,USD,200000,US,100,US,L,Other,US,US,12.206077645517674
+233,233,2021,SE,FT,Data Analyst,200000,USD,200000,US,100,US,L,Data Analyst,US,US,12.206077645517674
+234,234,2021,MI,FT,Data Architect,180000,USD,180000,US,100,US,L,Other,US,US,12.100717685412471
+235,235,2021,MI,FT,Head of Data Science,110000,USD,110000,US,0,US,S,Other,US,US,11.608244735642321
+236,236,2021,MI,FT,Research Scientist,80000,CAD,63810,CA,100,CA,M,Research Scientist,CA,CA,11.063680868264434
+237,237,2021,MI,FT,Data Scientist,39600,EUR,46809,ES,100,ES,M,Data Scientist,Other,Other,10.753852134294116
+238,238,2021,EN,FT,Data Scientist,4000,USD,4000,VN,0,VN,M,Data Scientist,Other,Other,8.294299608857235
+239,239,2021,EN,FT,Data Engineer,1600000,INR,21637,IN,50,IN,M,Data Engineer,IN,IN,9.98220630724752
+240,240,2021,SE,FT,Data Scientist,130000,CAD,103691,CA,100,CA,L,Data Scientist,CA,CA,11.5491802456294
+241,241,2021,MI,FT,Data Analyst,80000,USD,80000,US,100,US,L,Data Analyst,US,US,11.289794413577894
+242,242,2021,MI,FT,Data Engineer,110000,USD,110000,US,100,US,L,Data Engineer,US,US,11.608244735642321
+243,243,2021,SE,FT,Data Scientist,165000,USD,165000,US,100,US,L,Data Scientist,US,US,12.013706813470414
+244,244,2021,EN,FT,AI Scientist,1335000,INR,18053,IN,100,AS,S,Other,IN,Other,9.8011225458581
+245,245,2021,MI,FT,Data Engineer,52500,GBP,72212,GB,50,GB,L,Data Engineer,GB,GB,11.187375364074551
+246,246,2021,EN,FT,Data Scientist,31000,EUR,36643,FR,50,FR,L,Data Scientist,Other,Other,10.5090049831351
+247,247,2021,MI,FT,Data Engineer,108000,TRY,12103,TR,0,TR,M,Data Engineer,Other,Other,9.401291255468191
+248,248,2021,SE,FT,Data Engineer,70000,GBP,96282,GB,50,GB,L,Data Engineer,GB,GB,11.475047050530808
+249,249,2021,SE,FT,Principal Data Analyst,170000,USD,170000,US,100,US,M,Other,US,US,12.04355959836804
+250,250,2021,MI,FT,Data Scientist,115000,USD,115000,US,50,US,L,Data Scientist,US,US,11.652696102959753
+251,251,2021,EN,FT,Data Scientist,90000,USD,90000,US,100,US,S,Data Scientist,US,US,11.407576060361786
+252,252,2021,EX,FT,Principal Data Engineer,600000,USD,600000,US,100,US,L,Other,US,US,13.304686600863562
+253,253,2021,EN,FT,Data Scientist,2100000,INR,28399,IN,100,IN,M,Data Scientist,IN,IN,10.254144424149297
+254,254,2021,MI,FT,Data Analyst,93000,USD,93000,US,100,US,L,Data Analyst,US,US,11.440365524765756
+255,255,2021,SE,FT,Big Data Architect,125000,CAD,99703,CA,50,CA,M,Other,CA,CA,11.509961075506213
+256,256,2021,MI,FT,Data Engineer,200000,USD,200000,US,100,US,L,Data Engineer,US,US,12.206077645517674
+257,257,2021,SE,FT,Principal Data Scientist,147000,EUR,173762,DE,100,DE,M,Other,DE,DE,12.065447580772036
+258,258,2021,SE,FT,Machine Learning Engineer,185000,USD,185000,US,50,US,L,Machine Learning Engineer,US,US,12.128116509451258
+259,259,2021,EX,FT,Director of Data Science,120000,EUR,141846,DE,0,DE,L,Other,DE,DE,11.862504290912188
+260,260,2021,MI,FT,Data Scientist,130000,USD,130000,US,50,US,L,Data Scientist,US,US,11.775297421715827
+261,261,2021,SE,FT,Data Analyst,54000,EUR,63831,DE,50,DE,L,Data Analyst,DE,DE,11.064009910988117
+262,262,2021,MI,FT,Data Scientist,1250000,INR,16904,IN,100,IN,S,Data Scientist,IN,IN,9.735364715141987
+263,263,2021,SE,FT,Machine Learning Engineer,4900000,INR,66265,IN,0,IN,L,Machine Learning Engineer,IN,IN,11.101432224123721
+264,264,2021,MI,FT,Data Scientist,21600,EUR,25532,RS,100,DE,S,Data Scientist,Other,DE,10.14772701214507
+265,265,2021,SE,FT,Lead Data Engineer,160000,USD,160000,PR,50,US,S,Other,Other,US,11.982935344196433
+266,266,2021,MI,FT,Data Engineer,93150,USD,93150,US,0,US,M,Data Engineer,US,US,11.441977111345166
+267,267,2021,MI,FT,Data Engineer,111775,USD,111775,US,0,US,M,Data Engineer,US,US,11.624252147606558
+268,268,2021,MI,FT,Data Engineer,250000,TRY,28016,TR,100,TR,M,Data Engineer,Other,Other,10.240566747777828
+269,269,2021,EN,FT,Data Engineer,55000,EUR,65013,DE,50,DE,M,Data Engineer,DE,DE,11.082357910301223
+270,270,2021,EN,FT,Data Engineer,72500,USD,72500,US,100,US,L,Data Engineer,US,US,11.19135563385109
+271,271,2021,SE,FT,Computer Vision Engineer,102000,BRL,18907,BR,0,BR,M,Other,Other,Other,9.847340391913127
+272,272,2021,EN,FT,Data Science Consultant,65000,EUR,76833,DE,0,DE,L,Other,DE,DE,11.249402529502674
+273,273,2021,EN,FT,Machine Learning Engineer,85000,USD,85000,NL,100,DE,S,Machine Learning Engineer,Other,DE,11.350418300109132
+274,274,2021,SE,FT,Data Scientist,65720,EUR,77684,FR,50,FR,M,Data Scientist,Other,Other,11.260417467526102
+275,275,2021,EN,FT,Data Scientist,100000,USD,100000,US,100,US,M,Data Scientist,US,US,11.51293546492023
+276,276,2021,EN,FT,Data Scientist,58000,USD,58000,US,50,US,L,Data Scientist,US,US,10.968215530759236
+277,277,2021,SE,FT,AI Scientist,55000,USD,55000,ES,100,ES,L,Other,Other,Other,10.915106645867503
+278,278,2021,SE,FT,Data Scientist,180000,TRY,20171,TR,50,TR,L,Data Scientist,Other,Other,9.912050783196616
+279,279,2021,EN,FT,Business Data Analyst,50000,EUR,59102,LU,100,LU,L,Other,Other,Other,10.987036963527192
+280,280,2021,MI,FT,Data Engineer,112000,USD,112000,US,100,US,L,Data Engineer,US,US,11.626263078808801
+281,281,2021,EN,FT,Research Scientist,100000,USD,100000,JE,0,CN,L,Research Scientist,Other,Other,11.51293546492023
+282,282,2021,MI,PT,Data Engineer,59000,EUR,69741,NL,100,NL,L,Data Engineer,Other,Other,11.152557997765097
+283,283,2021,SE,CT,Staff Data Scientist,105000,USD,105000,US,100,US,M,Other,US,US,11.561725152903833
+284,284,2021,MI,FT,Research Scientist,69999,USD,69999,CZ,50,CZ,L,Research Scientist,Other,Other,11.156250521031495
+285,285,2021,SE,FT,Data Science Manager,7000000,INR,94665,IN,50,IN,L,Other,IN,IN,11.458110186196915
+286,286,2021,SE,FT,Head of Data,87000,EUR,102839,SI,100,SI,L,Other,Other,Other,11.540929661379826
+287,287,2021,MI,FT,Data Scientist,109000,USD,109000,US,50,US,L,Data Scientist,US,US,11.599112335481124
+288,288,2021,MI,FT,Machine Learning Engineer,43200,EUR,51064,IT,50,IT,L,Machine Learning Engineer,Other,Other,10.8408546100122
+289,289,2022,SE,FT,Data Engineer,135000,USD,135000,US,100,US,M,Data Engineer,US,US,11.813037464800539
+290,290,2022,SE,FT,Data Analyst,155000,USD,155000,US,100,US,M,Data Analyst,US,US,11.951186847493476
+291,291,2022,SE,FT,Data Analyst,120600,USD,120600,US,100,US,M,Data Analyst,US,US,11.700242855114809
+292,292,2022,MI,FT,Data Scientist,130000,USD,130000,US,0,US,M,Data Scientist,US,US,11.775297421715827
+293,293,2022,MI,FT,Data Scientist,90000,USD,90000,US,0,US,M,Data Scientist,US,US,11.407576060361786
+294,294,2022,MI,FT,Data Engineer,170000,USD,170000,US,100,US,M,Data Engineer,US,US,12.04355959836804
+295,295,2022,MI,FT,Data Engineer,150000,USD,150000,US,100,US,M,Data Engineer,US,US,11.918397239722838
+296,296,2022,SE,FT,Data Analyst,102100,USD,102100,US,100,US,M,Data Analyst,US,US,11.533717798424087
+297,297,2022,SE,FT,Data Analyst,84900,USD,84900,US,100,US,M,Data Analyst,US,US,11.349241150793087
+298,298,2022,SE,FT,Data Scientist,136620,USD,136620,US,100,US,M,Data Scientist,US,US,11.82496594783159
+299,299,2022,SE,FT,Data Scientist,99360,USD,99360,US,100,US,M,Data Scientist,US,US,11.506514961528898
+300,300,2022,SE,FT,Data Scientist,90000,GBP,117789,GB,0,GB,M,Data Scientist,GB,GB,11.67665865695283
+301,301,2022,SE,FT,Data Scientist,80000,GBP,104702,GB,0,GB,M,Data Scientist,GB,GB,11.55888304974326
+302,302,2022,SE,FT,Data Scientist,146000,USD,146000,US,100,US,M,Data Scientist,US,US,11.891368749982085
+303,303,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Data Scientist,US,US,11.719947764402807
+304,304,2022,EN,FT,Data Engineer,40000,GBP,52351,GB,100,GB,M,Data Engineer,GB,GB,10.865745419962419
+305,305,2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,Data Analyst,US,US,11.502885230075814
+306,306,2022,SE,FT,Data Analyst,116000,USD,116000,US,0,US,M,Data Analyst,US,US,11.661354090741
+307,307,2022,MI,FT,Data Analyst,106260,USD,106260,US,0,US,M,Data Analyst,US,US,11.573653610839628
+308,308,2022,MI,FT,Data Analyst,126500,USD,126500,US,0,US,M,Data Analyst,US,US,11.748005492256807
+309,309,2022,EX,FT,Data Engineer,242000,USD,242000,US,100,US,M,Data Engineer,US,US,12.396697137361691
+310,310,2022,EX,FT,Data Engineer,200000,USD,200000,US,100,US,M,Data Engineer,US,US,12.206077645517674
+311,311,2022,MI,FT,Data Scientist,50000,GBP,65438,GB,0,GB,M,Data Scientist,GB,GB,11.088873689986276
+312,312,2022,MI,FT,Data Scientist,30000,GBP,39263,GB,0,GB,M,Data Scientist,GB,GB,10.578063347510637
+313,313,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Data Engineer,GB,GB,11.271197793678173
+314,314,2022,MI,FT,Data Engineer,40000,GBP,52351,GB,0,GB,M,Data Engineer,GB,GB,10.865745419962419
+315,315,2022,SE,FT,Data Scientist,165220,USD,165220,US,100,US,M,Data Scientist,US,US,12.015039250634192
+316,316,2022,EN,FT,Data Engineer,35000,GBP,45807,GB,100,GB,M,Data Engineer,GB,GB,10.732214027337896
+317,317,2022,SE,FT,Data Scientist,120160,USD,120160,US,100,US,M,Data Scientist,US,US,11.696587789200349
+318,318,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Data Analyst,US,US,11.41112527050716
+319,319,2022,SE,FT,Data Engineer,181940,USD,181940,US,0,US,M,Data Engineer,US,US,12.111437737678415
+320,320,2022,SE,FT,Data Engineer,132320,USD,132320,US,0,US,M,Data Engineer,US,US,11.792986067665478
+321,321,2022,SE,FT,Data Engineer,220110,USD,220110,US,0,US,M,Data Engineer,US,US,12.301887243548784
+322,322,2022,SE,FT,Data Engineer,160080,USD,160080,US,0,US,M,Data Engineer,US,US,11.983435216114666
+323,323,2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,L,Data Scientist,US,US,12.100717685412471
+324,324,2022,SE,FT,Data Scientist,120000,USD,120000,US,0,US,L,Data Scientist,US,US,11.695255355062795
+325,325,2022,SE,FT,Data Analyst,124190,USD,124190,US,100,US,M,Data Analyst,US,US,11.729575982087773
+326,326,2022,EX,FT,Data Analyst,130000,USD,130000,US,100,US,M,Data Analyst,US,US,11.775297421715827
+327,327,2022,EX,FT,Data Analyst,110000,USD,110000,US,100,US,M,Data Analyst,US,US,11.608244735642321
+328,328,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Data Analyst,US,US,12.04355959836804
+329,329,2022,MI,FT,Data Analyst,115500,USD,115500,US,100,US,M,Data Analyst,US,US,11.657034466915164
+330,330,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Data Analyst,US,US,11.634266607494453
+331,331,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Data Analyst,US,US,11.41112527050716
+332,332,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Data Analyst,US,US,11.634266607494453
+333,333,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Data Analyst,US,US,11.41112527050716
+334,334,2022,SE,FT,Data Engineer,165400,USD,165400,US,100,US,M,Data Engineer,US,US,12.016128107502665
+335,335,2022,SE,FT,Data Engineer,132320,USD,132320,US,100,US,M,Data Engineer,US,US,11.792986067665478
+336,336,2022,MI,FT,Data Analyst,167000,USD,167000,US,100,US,M,Data Analyst,US,US,12.025755079404917
+337,337,2022,SE,FT,Data Engineer,243900,USD,243900,US,100,US,M,Data Engineer,US,US,12.404517684236607
+338,338,2022,SE,FT,Data Analyst,136600,USD,136600,US,100,US,M,Data Analyst,US,US,11.824819546736247
+339,339,2022,SE,FT,Data Analyst,109280,USD,109280,US,100,US,M,Data Analyst,US,US,11.60167782556802
+340,340,2022,SE,FT,Data Engineer,128875,USD,128875,US,100,US,M,Data Engineer,US,US,11.766605980745995
+341,341,2022,SE,FT,Data Engineer,93700,USD,93700,US,100,US,M,Data Engineer,US,US,11.447864140528155
+342,342,2022,EX,FT,Head of Data Science,224000,USD,224000,US,100,US,M,Other,US,US,12.319405795112926
+343,343,2022,EX,FT,Head of Data Science,167875,USD,167875,US,100,US,M,Other,US,US,12.030980890620903
+344,344,2022,EX,FT,Analytics Engineer,175000,USD,175000,US,100,US,M,Other,US,US,12.07254696717504
+345,345,2022,SE,FT,Data Engineer,156600,USD,156600,US,100,US,M,Data Engineer,US,US,11.961456448214491
+346,346,2022,SE,FT,Data Engineer,108800,USD,108800,US,0,US,M,Data Engineer,US,US,11.597275804538212
+347,347,2022,SE,FT,Data Scientist,95550,USD,95550,US,0,US,M,Data Scientist,US,US,11.467415415338404
+348,348,2022,SE,FT,Data Engineer,113000,USD,113000,US,0,US,L,Data Engineer,US,US,11.635151947212842
+349,349,2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Data Analyst,US,US,11.813037464800539
+350,350,2022,SE,FT,Data Science Manager,161342,USD,161342,US,100,US,M,Other,US,US,11.991287812591057
+351,351,2022,SE,FT,Data Science Manager,137141,USD,137141,US,100,US,M,Other,US,US,11.828772164369175
+352,352,2022,SE,FT,Data Scientist,167000,USD,167000,US,100,US,M,Data Scientist,US,US,12.025755079404917
+353,353,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Data Scientist,US,US,11.719947764402807
+354,354,2022,SE,FT,Data Engineer,60000,GBP,78526,GB,0,GB,M,Data Engineer,GB,GB,11.271197793678173
+355,355,2022,SE,FT,Data Engineer,50000,GBP,65438,GB,0,GB,M,Data Engineer,GB,GB,11.088873689986276
+356,356,2022,SE,FT,Data Scientist,150000,USD,150000,US,0,US,M,Data Scientist,US,US,11.918397239722838
+357,357,2022,SE,FT,Data Scientist,211500,USD,211500,US,100,US,M,Data Scientist,US,US,12.261985005589679
+358,358,2022,SE,FT,Data Architect,192400,USD,192400,CA,100,CA,M,Other,CA,CA,12.167337014705433
+359,359,2022,SE,FT,Data Architect,90700,USD,90700,CA,100,CA,M,Other,CA,CA,11.415323661400773
+360,360,2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Data Analyst,CA,CA,11.775297421715827
+361,361,2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Data Analyst,CA,CA,11.023551435004947
+362,362,2022,SE,FT,Data Analyst,130000,USD,130000,CA,100,CA,M,Data Analyst,CA,CA,11.775297421715827
+363,363,2022,SE,FT,Data Analyst,61300,USD,61300,CA,100,CA,M,Data Analyst,CA,CA,11.023551435004947
+364,364,2022,SE,FT,Data Engineer,160000,USD,160000,US,0,US,L,Data Engineer,US,US,11.982935344196433
+365,365,2022,SE,FT,Data Scientist,138600,USD,138600,US,100,US,M,Data Scientist,US,US,11.839354580719126
+366,366,2022,SE,FT,Data Engineer,136000,USD,136000,US,0,US,M,Data Engineer,US,US,11.820417517632333
+367,367,2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,Data Analyst,US,US,10.968215530759236
+368,368,2022,EX,FT,Analytics Engineer,135000,USD,135000,US,100,US,M,Other,US,US,11.813037464800539
+369,369,2022,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M,Data Scientist,US,US,12.04355959836804
+370,370,2022,SE,FT,Data Scientist,123000,USD,123000,US,100,US,M,Data Scientist,US,US,11.719947764402807
+371,371,2022,SE,FT,Machine Learning Engineer,189650,USD,189650,US,0,US,M,Machine Learning Engineer,US,US,12.152940819974221
+372,372,2022,SE,FT,Machine Learning Engineer,164996,USD,164996,US,0,US,M,Machine Learning Engineer,US,US,12.013682570899245
+373,373,2022,MI,FT,ETL Developer,50000,EUR,54957,GR,0,GR,M,Other,Other,Other,10.914324536132202
+374,374,2022,MI,FT,ETL Developer,50000,EUR,54957,GR,0,GR,M,Other,Other,Other,10.914324536132202
+375,375,2022,EX,FT,Lead Data Engineer,150000,CAD,118187,CA,100,CA,S,Other,CA,CA,11.680031855957703
+376,376,2022,SE,FT,Data Analyst,132000,USD,132000,US,0,US,M,Data Analyst,US,US,11.790564777297387
+377,377,2022,SE,FT,Data Engineer,165400,USD,165400,US,100,US,M,Data Engineer,US,US,12.016128107502665
+378,378,2022,SE,FT,Data Architect,208775,USD,208775,US,100,US,M,Other,US,US,12.249017185855486
+379,379,2022,SE,FT,Data Architect,147800,USD,147800,US,100,US,M,Other,US,US,11.903622053373214
+380,380,2022,SE,FT,Data Engineer,136994,USD,136994,US,100,US,M,Data Engineer,US,US,11.827699707793888
+381,381,2022,SE,FT,Data Engineer,101570,USD,101570,US,100,US,M,Data Engineer,US,US,11.52851334031188
+382,382,2022,SE,FT,Data Analyst,128875,USD,128875,US,100,US,M,Data Analyst,US,US,11.766605980745995
+383,383,2022,SE,FT,Data Analyst,93700,USD,93700,US,100,US,M,Data Analyst,US,US,11.447864140528155
+384,384,2022,EX,FT,Head of Machine Learning,6000000,INR,79039,IN,50,IN,L,Other,IN,IN,11.277709332421749
+385,385,2022,SE,FT,Data Engineer,132320,USD,132320,US,100,US,M,Data Engineer,US,US,11.792986067665478
+386,386,2022,EN,FT,Machine Learning Engineer,28500,GBP,37300,GB,100,GB,L,Machine Learning Engineer,GB,GB,10.526775414924009
+387,387,2022,SE,FT,Data Analyst,164000,USD,164000,US,0,US,M,Data Analyst,US,US,12.00762780434872
+388,388,2022,SE,FT,Data Engineer,155000,USD,155000,US,100,US,M,Data Engineer,US,US,11.951186847493476
+389,389,2022,MI,FT,Machine Learning Engineer,95000,GBP,124333,GB,0,GB,M,Machine Learning Engineer,GB,GB,11.730726771873762
+390,390,2022,MI,FT,Machine Learning Engineer,75000,GBP,98158,GB,0,GB,M,Machine Learning Engineer,GB,GB,11.494343891883839
+391,391,2022,MI,FT,AI Scientist,120000,USD,120000,US,0,US,M,Other,US,US,11.695255355062795
+392,392,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Data Analyst,US,US,11.634266607494453
+393,393,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Data Analyst,US,US,11.41112527050716
+394,394,2022,SE,FT,Data Analytics Manager,145000,USD,145000,US,100,US,M,Other,US,US,11.884495917930655
+395,395,2022,SE,FT,Data Analytics Manager,105400,USD,105400,US,100,US,M,Other,US,US,11.565527402710426
+396,396,2022,MI,FT,Machine Learning Engineer,80000,EUR,87932,FR,100,DE,M,Machine Learning Engineer,Other,DE,11.384330439839488
+397,397,2022,MI,FT,Data Engineer,90000,GBP,117789,GB,0,GB,M,Data Engineer,GB,GB,11.67665865695283
+398,398,2022,SE,FT,Data Scientist,215300,USD,215300,US,100,US,L,Data Scientist,US,US,12.279792328023508
+399,399,2022,SE,FT,Data Scientist,158200,USD,158200,US,100,US,L,Data Scientist,US,US,11.971621655408228
+400,400,2022,SE,FT,Data Engineer,209100,USD,209100,US,100,US,L,Data Engineer,US,US,12.250572667806054
+401,401,2022,SE,FT,Data Engineer,154600,USD,154600,US,100,US,L,Data Engineer,US,US,11.948602883419843
+402,402,2022,SE,FT,Data Analyst,115934,USD,115934,US,0,US,M,Data Analyst,US,US,11.66078496820908
+403,403,2022,SE,FT,Data Analyst,81666,USD,81666,US,0,US,M,Data Analyst,US,US,11.310405282483078
+404,404,2022,SE,FT,Data Engineer,175000,USD,175000,US,100,US,M,Data Engineer,US,US,12.07254696717504
+405,405,2022,MI,FT,Data Engineer,75000,GBP,98158,GB,0,GB,M,Data Engineer,GB,GB,11.494343891883839
+406,406,2022,MI,FT,Data Analyst,58000,USD,58000,US,0,US,S,Data Analyst,US,US,10.968215530759236
+407,407,2022,SE,FT,Data Engineer,183600,USD,183600,US,100,US,L,Data Engineer,US,US,12.120520203776788
+408,408,2022,MI,FT,Data Analyst,40000,GBP,52351,GB,100,GB,M,Data Analyst,GB,GB,10.865745419962419
+409,409,2022,SE,FT,Data Scientist,180000,USD,180000,US,100,US,M,Data Scientist,US,US,12.100717685412471
+410,410,2022,MI,FT,Data Scientist,55000,GBP,71982,GB,0,GB,M,Data Scientist,GB,GB,11.184185259008464
+411,411,2022,MI,FT,Data Scientist,35000,GBP,45807,GB,0,GB,M,Data Scientist,GB,GB,10.732214027337896
+412,412,2022,MI,FT,Data Engineer,60000,EUR,65949,GR,100,GR,M,Data Engineer,Other,Other,11.09665215814546
+413,413,2022,MI,FT,Data Engineer,45000,EUR,49461,GR,100,GR,M,Data Engineer,Other,Other,10.808959976974403
+414,414,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,100,GB,M,Data Engineer,GB,GB,11.271197793678173
+415,415,2022,MI,FT,Data Engineer,45000,GBP,58894,GB,100,GB,M,Data Engineer,GB,GB,10.983511476392884
+416,416,2022,SE,FT,Data Scientist,260000,USD,260000,US,100,US,M,Data Scientist,US,US,12.468440756144114
+417,417,2022,SE,FT,Data Science Engineer,60000,USD,60000,AR,100,MX,L,Other,Other,Other,11.002116507732017
+418,418,2022,MI,FT,Data Engineer,63900,USD,63900,US,0,US,M,Data Engineer,US,US,11.065090289695444
+419,419,2022,MI,FT,Machine Learning Scientist,160000,USD,160000,US,100,US,L,Other,US,US,11.982935344196433
+420,420,2022,MI,FT,Machine Learning Scientist,112300,USD,112300,US,100,US,L,Other,US,US,11.62893804540639
+421,421,2022,MI,FT,Data Science Manager,241000,USD,241000,US,100,US,M,Other,US,US,12.392556361841777
+422,422,2022,MI,FT,Data Science Manager,159000,USD,159000,US,100,US,M,Other,US,US,11.976665770490767
+423,423,2022,SE,FT,Data Scientist,180000,USD,180000,US,0,US,M,Data Scientist,US,US,12.100717685412471
+424,424,2022,SE,FT,Data Scientist,80000,USD,80000,US,0,US,M,Data Scientist,US,US,11.289794413577894
+425,425,2022,MI,FT,Data Engineer,82900,USD,82900,US,0,US,M,Data Engineer,US,US,11.325402403776808
+426,426,2022,SE,FT,Data Engineer,100800,USD,100800,US,100,US,L,Data Engineer,US,US,11.520903555205116
+427,427,2022,MI,FT,Data Engineer,45000,EUR,49461,ES,100,ES,M,Data Engineer,Other,Other,10.808959976974403
+428,428,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,L,Data Scientist,US,US,11.852257893055606
+429,429,2022,MI,FT,Data Analyst,30000,GBP,39263,GB,100,GB,M,Data Analyst,GB,GB,10.578063347510637
+430,430,2022,MI,FT,Data Analyst,40000,EUR,43966,ES,100,ES,M,Data Analyst,Other,Other,10.691194631509694
+431,431,2022,MI,FT,Data Analyst,30000,EUR,32974,ES,100,ES,M,Data Analyst,Other,Other,10.403504977585515
+432,432,2022,MI,FT,Data Engineer,80000,EUR,87932,ES,100,ES,M,Data Engineer,Other,Other,11.384330439839488
+433,433,2022,MI,FT,Data Engineer,70000,EUR,76940,ES,100,ES,M,Data Engineer,Other,Other,11.250794173362452
+434,434,2022,MI,FT,Data Engineer,80000,GBP,104702,GB,100,GB,M,Data Engineer,GB,GB,11.55888304974326
+435,435,2022,MI,FT,Data Engineer,70000,GBP,91614,GB,100,GB,M,Data Engineer,GB,GB,11.425350292714276
+436,436,2022,MI,FT,Data Engineer,60000,EUR,65949,ES,100,ES,M,Data Engineer,Other,Other,11.09665215814546
+437,437,2022,MI,FT,Data Engineer,80000,EUR,87932,GR,100,GR,M,Data Engineer,Other,Other,11.384330439839488
+438,438,2022,SE,FT,Machine Learning Engineer,189650,USD,189650,US,0,US,M,Machine Learning Engineer,US,US,12.152940819974221
+439,439,2022,SE,FT,Machine Learning Engineer,164996,USD,164996,US,0,US,M,Machine Learning Engineer,US,US,12.013682570899245
+440,440,2022,MI,FT,Data Analyst,40000,EUR,43966,GR,100,GR,M,Data Analyst,Other,Other,10.691194631509694
+441,441,2022,MI,FT,Data Analyst,30000,EUR,32974,GR,100,GR,M,Data Analyst,Other,Other,10.403504977585515
+442,442,2022,MI,FT,Data Engineer,75000,GBP,98158,GB,100,GB,M,Data Engineer,GB,GB,11.494343891883839
+443,443,2022,MI,FT,Data Engineer,60000,GBP,78526,GB,100,GB,M,Data Engineer,GB,GB,11.271197793678173
+444,444,2022,SE,FT,Data Scientist,215300,USD,215300,US,0,US,L,Data Scientist,US,US,12.279792328023508
+445,445,2022,MI,FT,Data Engineer,70000,EUR,76940,GR,100,GR,M,Data Engineer,Other,Other,11.250794173362452
+446,446,2022,SE,FT,Data Engineer,209100,USD,209100,US,100,US,L,Data Engineer,US,US,12.250572667806054
+447,447,2022,SE,FT,Data Engineer,154600,USD,154600,US,100,US,L,Data Engineer,US,US,11.948602883419843
+448,448,2022,SE,FT,Data Engineer,180000,USD,180000,US,100,US,M,Data Engineer,US,US,12.100717685412471
+449,449,2022,EN,FT,ML Engineer,20000,EUR,21983,PT,100,PT,L,Other,Other,Other,9.998070195022075
+450,450,2022,SE,FT,Data Engineer,80000,USD,80000,US,100,US,M,Data Engineer,US,US,11.289794413577894
+451,451,2022,MI,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Other,CA,CA,11.274566747849539
+452,452,2022,EX,FT,Director of Data Science,250000,CAD,196979,CA,50,CA,L,Other,CA,CA,12.190857479723693
+453,453,2022,MI,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,S,Machine Learning Engineer,US,US,11.695255355062795
+454,454,2022,EN,FT,Computer Vision Engineer,125000,USD,125000,US,0,US,M,Other,US,US,11.736077016252437
+455,455,2022,MI,FT,NLP Engineer,240000,CNY,37236,US,50,US,L,Other,US,US,10.525058169606785
+456,456,2022,SE,FT,Data Engineer,105000,USD,105000,US,100,US,M,Data Engineer,US,US,11.561725152903833
+457,457,2022,SE,FT,Lead Machine Learning Engineer,80000,EUR,87932,DE,0,DE,M,Other,DE,DE,11.384330439839488
+458,458,2022,MI,FT,Business Data Analyst,1400000,INR,18442,IN,100,IN,M,Other,IN,IN,9.822440173682805
+459,459,2022,MI,FT,Data Scientist,2400000,INR,31615,IN,100,IN,L,Data Scientist,IN,IN,10.361418600547594
+460,460,2022,MI,FT,Machine Learning Infrastructure Engineer,53000,EUR,58255,PT,50,PT,L,Other,Other,Other,10.972602370415215
+461,461,2022,EN,FT,Financial Data Analyst,100000,USD,100000,US,50,US,L,Other,US,US,11.51293546492023
+462,462,2022,MI,PT,Data Engineer,50000,EUR,54957,DE,50,DE,L,Data Engineer,DE,DE,10.914324536132202
+463,463,2022,EN,FT,Data Scientist,1400000,INR,18442,IN,100,IN,M,Data Scientist,IN,IN,9.822440173682805
+464,464,2022,SE,FT,Principal Data Scientist,148000,EUR,162674,DE,100,DE,M,Other,DE,DE,11.999509624363185
+465,465,2022,EN,FT,Data Engineer,120000,USD,120000,US,100,US,M,Data Engineer,US,US,11.695255355062795
+466,466,2022,SE,FT,Research Scientist,144000,USD,144000,US,50,US,L,Research Scientist,US,US,11.87757552297847
+467,467,2022,SE,FT,Data Scientist,104890,USD,104890,US,100,US,M,Data Scientist,US,US,11.560676994707515
+468,468,2022,SE,FT,Data Engineer,100000,USD,100000,US,100,US,M,Data Engineer,US,US,11.51293546492023
+469,469,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+470,470,2022,MI,FT,Data Analyst,135000,USD,135000,US,100,US,M,Data Analyst,US,US,11.813037464800539
+471,471,2022,MI,FT,Data Analyst,50000,USD,50000,US,100,US,M,Data Analyst,US,US,10.819798284210286
+472,472,2022,SE,FT,Data Scientist,220000,USD,220000,US,100,US,M,Data Scientist,US,US,12.301387370778713
+473,473,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+474,474,2022,MI,FT,Data Scientist,140000,GBP,183228,GB,0,GB,M,Data Scientist,GB,GB,12.11849201563776
+475,475,2022,MI,FT,Data Scientist,70000,GBP,91614,GB,0,GB,M,Data Scientist,GB,GB,11.425350292714276
+476,476,2022,SE,FT,Data Scientist,185100,USD,185100,US,100,US,M,Data Scientist,US,US,12.128656901032139
+477,477,2022,SE,FT,Machine Learning Engineer,220000,USD,220000,US,100,US,M,Machine Learning Engineer,US,US,12.301387370778713
+478,478,2022,MI,FT,Data Scientist,200000,USD,200000,US,100,US,M,Data Scientist,US,US,12.206077645517674
+479,479,2022,MI,FT,Data Scientist,120000,USD,120000,US,100,US,M,Data Scientist,US,US,11.695255355062795
+480,480,2022,SE,FT,Machine Learning Engineer,120000,USD,120000,AE,100,AE,S,Machine Learning Engineer,Other,Other,11.695255355062795
+481,481,2022,SE,FT,Machine Learning Engineer,65000,USD,65000,AE,100,AE,S,Machine Learning Engineer,Other,Other,11.082157933374816
+482,482,2022,EX,FT,Data Engineer,324000,USD,324000,US,100,US,M,Data Engineer,US,US,12.688501881189456
+483,483,2022,EX,FT,Data Engineer,216000,USD,216000,US,100,US,M,Data Engineer,US,US,12.283038316285214
+484,484,2022,SE,FT,Data Engineer,210000,USD,210000,US,100,US,M,Data Engineer,US,US,12.25486757159303
+485,485,2022,SE,FT,Machine Learning Engineer,120000,USD,120000,US,100,US,M,Machine Learning Engineer,US,US,11.695255355062795
+486,486,2022,SE,FT,Data Scientist,230000,USD,230000,US,100,US,M,Data Scientist,US,US,12.345838935721968
+487,487,2022,EN,PT,Data Scientist,100000,USD,100000,DZ,50,DZ,M,Data Scientist,Other,Other,11.51293546492023
+488,488,2022,MI,FL,Data Scientist,100000,USD,100000,CA,100,US,M,Data Scientist,CA,US,11.51293546492023
+489,489,2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,31875,TN,100,CZ,M,Other,Other,Other,10.36960865451764
+490,490,2022,SE,FT,Head of Data,200000,USD,200000,MY,100,US,M,Other,Other,US,12.206077645517674
+491,491,2022,MI,FT,Principal Data Analyst,75000,USD,75000,CA,100,CA,S,Other,CA,CA,11.225256725762893
+492,492,2022,MI,FT,Data Scientist,150000,PLN,35590,PL,100,PL,L,Data Scientist,Other,Other,10.479848075889779
+493,493,2022,SE,FT,Machine Learning Developer,100000,CAD,78791,CA,100,CA,M,Other,CA,CA,11.274566747849539
+494,494,2022,SE,FT,Data Scientist,100000,USD,100000,BR,100,US,M,Data Scientist,Other,US,11.51293546492023
+495,495,2022,MI,FT,Machine Learning Scientist,153000,USD,153000,US,50,US,M,Other,US,US,11.938199736300925
+496,496,2022,EN,FT,Data Engineer,52800,EUR,58035,PK,100,DE,M,Data Engineer,Other,DE,10.968818786635575
+497,497,2022,SE,FT,Data Scientist,165000,USD,165000,US,100,US,M,Data Scientist,US,US,12.013706813470414
+498,498,2022,SE,FT,Research Scientist,85000,EUR,93427,FR,50,FR,L,Research Scientist,Other,Other,11.444946365157367
+499,499,2022,EN,FT,Data Scientist,66500,CAD,52396,CA,100,CA,L,Data Scientist,CA,CA,10.866604616761784
+500,500,2022,SE,FT,Machine Learning Engineer,57000,EUR,62651,NL,100,NL,L,Machine Learning Engineer,Other,Other,11.045350883198553
+501,501,2022,MI,FT,Head of Data,30000,EUR,32974,EE,100,EE,S,Other,Other,Other,10.403504977585515
+502,502,2022,EN,FT,Data Scientist,40000,USD,40000,JP,100,MY,L,Data Scientist,Other,Other,10.596659732783579
+503,503,2022,MI,FT,Machine Learning Engineer,121000,AUD,87425,AU,100,AU,L,Machine Learning Engineer,Other,Other,11.37854800024191
+504,504,2022,SE,FT,Data Engineer,115000,USD,115000,US,100,US,M,Data Engineer,US,US,11.652696102959753
+505,505,2022,EN,FT,Data Scientist,120000,AUD,86703,AU,50,AU,M,Data Scientist,Other,Other,11.370255297805896
+506,506,2022,MI,FT,Applied Machine Learning Scientist,75000,USD,75000,BO,100,US,L,Other,Other,US,11.225256725762893
+507,507,2022,MI,FT,Research Scientist,59000,EUR,64849,AT,0,AT,L,Research Scientist,Other,Other,11.07983218974459
+508,508,2022,EN,FT,Research Scientist,120000,USD,120000,US,100,US,L,Research Scientist,US,US,11.695255355062795
+509,509,2022,MI,FT,Applied Data Scientist,157000,USD,157000,US,100,US,L,Other,US,US,11.964007453736912
+510,510,2022,EN,FT,Computer Vision Software Engineer,150000,USD,150000,AU,100,AU,S,Other,Other,Other,11.918397239722838
+511,511,2022,MI,FT,Business Data Analyst,90000,CAD,70912,CA,50,CA,L,Other,CA,CA,11.169209052553029
+512,512,2022,EN,FT,Data Engineer,65000,USD,65000,US,100,US,S,Data Engineer,US,US,11.082157933374816
+513,513,2022,SE,FT,Machine Learning Engineer,65000,EUR,71444,IE,100,IE,S,Machine Learning Engineer,Other,Other,11.17668320190307
+514,514,2022,EN,FT,Data Analytics Engineer,20000,USD,20000,PK,0,PK,M,Other,Other,Other,9.90353755128617
+515,515,2022,MI,FT,Data Scientist,48000,USD,48000,RU,100,US,S,Data Scientist,Other,US,10.778977123006351
+516,516,2022,SE,FT,Data Science Manager,152500,USD,152500,US,100,US,M,Other,US,US,11.934926432385152
+517,517,2022,MI,FT,Data Engineer,62000,EUR,68147,FR,100,FR,M,Data Engineer,Other,Other,11.129437089665434
+518,518,2022,MI,FT,Data Scientist,115000,CHF,122346,CH,0,CH,L,Data Scientist,Other,Other,11.714616548750014
+519,519,2022,SE,FT,Applied Data Scientist,380000,USD,380000,US,100,US,L,Other,US,US,12.847929163278053
+520,520,2022,MI,FT,Data Scientist,88000,CAD,69336,CA,100,CA,M,Data Scientist,CA,CA,11.146733953232388
+521,521,2022,EN,FT,Computer Vision Engineer,10000,USD,10000,PT,100,LU,M,Other,Other,Other,9.210440366976517
+522,522,2022,MI,FT,Data Analyst,20000,USD,20000,GR,100,GR,S,Data Analyst,Other,Other,9.90353755128617
+523,523,2022,SE,FT,Data Analytics Lead,405000,USD,405000,US,100,US,L,Other,US,US,12.91164481522143
+524,524,2022,MI,FT,Data Scientist,135000,USD,135000,US,100,US,L,Data Scientist,US,US,11.813037464800539
+525,525,2022,SE,FT,Applied Data Scientist,177000,USD,177000,US,100,US,L,Other,US,US,12.083910661257521
+526,526,2022,MI,FT,Data Scientist,78000,USD,78000,US,100,US,M,Data Scientist,US,US,11.264476926102367
+527,527,2022,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M,Data Analyst,US,US,11.813037464800539
+528,528,2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Data Analyst,US,US,11.51293546492023
+529,529,2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M,Data Analyst,US,US,11.41112527050716
+530,530,2022,MI,FT,Data Analyst,85000,USD,85000,CA,0,CA,M,Data Analyst,CA,CA,11.350418300109132
+531,531,2022,MI,FT,Data Analyst,75000,USD,75000,CA,0,CA,M,Data Analyst,CA,CA,11.225256725762893
+532,532,2022,SE,FT,Machine Learning Engineer,214000,USD,214000,US,100,US,M,Machine Learning Engineer,US,US,12.273735966890268
+533,533,2022,SE,FT,Machine Learning Engineer,192600,USD,192600,US,100,US,M,Machine Learning Engineer,US,US,12.16837597044068
+534,534,2022,SE,FT,Data Architect,266400,USD,266400,US,100,US,M,Other,US,US,12.49275797139508
+535,535,2022,SE,FT,Data Architect,213120,USD,213120,US,100,US,M,Other,US,US,12.269615358515345
+536,536,2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M,Data Analyst,US,US,11.634266607494453
+537,537,2022,SE,FT,Data Engineer,155000,USD,155000,US,100,US,M,Data Engineer,US,US,11.951186847493476
+538,538,2022,MI,FT,Data Scientist,141300,USD,141300,US,0,US,M,Data Scientist,US,US,11.85864764578841
+539,539,2022,MI,FT,Data Scientist,102100,USD,102100,US,0,US,M,Data Scientist,US,US,11.533717798424087
+540,540,2022,SE,FT,Data Analyst,115934,USD,115934,US,100,US,M,Data Analyst,US,US,11.66078496820908
+541,541,2022,SE,FT,Data Analyst,81666,USD,81666,US,100,US,M,Data Analyst,US,US,11.310405282483078
+542,542,2022,MI,FT,Data Engineer,206699,USD,206699,US,0,US,M,Data Engineer,US,US,12.23902374566986
+543,543,2022,MI,FT,Data Engineer,99100,USD,99100,US,0,US,M,Data Engineer,US,US,11.503894811084523
+544,544,2022,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M,Data Engineer,US,US,11.775297421715827
+545,545,2022,SE,FT,Data Engineer,115000,USD,115000,US,100,US,M,Data Engineer,US,US,11.652696102959753
+546,546,2022,SE,FT,Data Engineer,110500,USD,110500,US,100,US,M,Data Engineer,US,US,11.612779849672751
+547,547,2022,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M,Data Engineer,US,US,11.775297421715827
+548,548,2022,SE,FT,Data Analyst,99050,USD,99050,US,100,US,M,Data Analyst,US,US,11.50339014798689
+549,549,2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M,Data Engineer,US,US,11.982935344196433
+550,550,2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,L,Data Scientist,US,US,12.232232473915767
+551,551,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,L,Data Scientist,US,US,11.852257893055606
+552,552,2022,SE,FT,Data Scientist,176000,USD,176000,US,100,US,M,Data Scientist,US,US,12.07824495582233
+553,553,2022,SE,FT,Data Scientist,144000,USD,144000,US,100,US,M,Data Scientist,US,US,11.87757552297847
+554,554,2022,SE,FT,Data Engineer,200100,USD,200100,US,100,US,M,Data Engineer,US,US,12.206577518060588
+555,555,2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M,Data Engineer,US,US,11.982935344196433
+556,556,2022,SE,FT,Data Engineer,145000,USD,145000,US,100,US,M,Data Engineer,US,US,11.884495917930655
+557,557,2022,SE,FT,Data Engineer,70500,USD,70500,US,0,US,M,Data Engineer,US,US,11.163382173096926
+558,558,2022,SE,FT,Data Scientist,205300,USD,205300,US,0,US,M,Data Scientist,US,US,12.232232473915767
+559,559,2022,SE,FT,Data Scientist,140400,USD,140400,US,0,US,M,Data Scientist,US,US,11.852257893055606
+560,560,2022,SE,FT,Analytics Engineer,205300,USD,205300,US,0,US,M,Other,US,US,12.232232473915767
+561,561,2022,SE,FT,Analytics Engineer,184700,USD,184700,US,0,US,M,Other,US,US,12.12649358035784
+562,562,2022,SE,FT,Data Engineer,175100,USD,175100,US,100,US,M,Data Engineer,US,US,12.073118229279908
+563,563,2022,SE,FT,Data Engineer,140250,USD,140250,US,100,US,M,Data Engineer,US,US,11.8511889534843
+564,564,2022,SE,FT,Data Analyst,116150,USD,116150,US,100,US,M,Data Analyst,US,US,11.6626463477181
+565,565,2022,SE,FT,Data Engineer,54000,USD,54000,US,0,US,M,Data Engineer,US,US,10.896757843893464
+566,566,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Data Analyst,US,US,12.04355959836804
+567,567,2022,MI,FT,Data Analyst,50000,GBP,65438,GB,0,GB,M,Data Analyst,GB,GB,11.088873689986276
+568,568,2022,SE,FT,Data Analyst,80000,USD,80000,US,100,US,M,Data Analyst,US,US,11.289794413577894
+569,569,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+570,570,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Data Scientist,US,US,12.25486757159303
+571,571,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+572,572,2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M,Data Analyst,US,US,11.51293546492023
+573,573,2022,SE,FT,Data Analyst,69000,USD,69000,US,100,US,M,Data Analyst,US,US,11.141876276228
+574,574,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Data Scientist,US,US,12.25486757159303
+575,575,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+576,576,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Data Scientist,US,US,12.25486757159303
+577,577,2022,SE,FT,Data Analyst,150075,USD,150075,US,100,US,M,Data Analyst,US,US,11.918897111432843
+578,578,2022,SE,FT,Data Engineer,100000,USD,100000,US,100,US,M,Data Engineer,US,US,11.51293546492023
+579,579,2022,SE,FT,Data Engineer,25000,USD,25000,US,100,US,M,Data Engineer,US,US,10.12667110305036
+580,580,2022,SE,FT,Data Analyst,126500,USD,126500,US,100,US,M,Data Analyst,US,US,11.748005492256807
+581,581,2022,SE,FT,Data Analyst,106260,USD,106260,US,100,US,M,Data Analyst,US,US,11.573653610839628
+582,582,2022,SE,FT,Data Engineer,220110,USD,220110,US,100,US,M,Data Engineer,US,US,12.301887243548784
+583,583,2022,SE,FT,Data Engineer,160080,USD,160080,US,100,US,M,Data Engineer,US,US,11.983435216114666
+584,584,2022,SE,FT,Data Analyst,105000,USD,105000,US,100,US,M,Data Analyst,US,US,11.561725152903833
+585,585,2022,SE,FT,Data Analyst,110925,USD,110925,US,100,US,M,Data Analyst,US,US,11.616618591306768
+586,586,2022,MI,FT,Data Analyst,35000,GBP,45807,GB,0,GB,M,Data Analyst,GB,GB,10.732214027337896
+587,587,2022,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M,Data Scientist,US,US,11.849404844423074
+588,588,2022,SE,FT,Data Analyst,99000,USD,99000,US,0,US,M,Data Analyst,US,US,11.502885230075814
+589,589,2022,SE,FT,Data Analyst,60000,USD,60000,US,100,US,M,Data Analyst,US,US,11.002116507732017
+590,590,2022,SE,FT,Data Architect,192564,USD,192564,US,100,US,M,Other,US,US,12.16818903805254
+591,591,2022,SE,FT,Data Architect,144854,USD,144854,US,100,US,M,Other,US,US,11.883488521069127
+592,592,2022,SE,FT,Data Scientist,230000,USD,230000,US,100,US,M,Data Scientist,US,US,12.345838935721968
+593,593,2022,SE,FT,Data Scientist,150000,USD,150000,US,100,US,M,Data Scientist,US,US,11.918397239722838
+594,594,2022,SE,FT,Data Analytics Manager,150260,USD,150260,US,100,US,M,Other,US,US,11.920129061032112
+595,595,2022,SE,FT,Data Analytics Manager,109280,USD,109280,US,100,US,M,Other,US,US,11.60167782556802
+596,596,2022,SE,FT,Data Scientist,210000,USD,210000,US,100,US,M,Data Scientist,US,US,12.25486757159303
+597,597,2022,SE,FT,Data Analyst,170000,USD,170000,US,100,US,M,Data Analyst,US,US,12.04355959836804
+598,598,2022,MI,FT,Data Scientist,160000,USD,160000,US,100,US,M,Data Scientist,US,US,11.982935344196433
+599,599,2022,MI,FT,Data Scientist,130000,USD,130000,US,100,US,M,Data Scientist,US,US,11.775297421715827
+600,600,2022,EN,FT,Data Analyst,67000,USD,67000,CA,0,CA,M,Data Analyst,CA,CA,11.112462823634855
+601,601,2022,EN,FT,Data Analyst,52000,USD,52000,CA,0,CA,M,Data Analyst,CA,CA,10.859018228147887
+602,602,2022,SE,FT,Data Engineer,154000,USD,154000,US,100,US,M,Data Engineer,US,US,11.944714374881176
+603,603,2022,SE,FT,Data Engineer,126000,USD,126000,US,100,US,M,Data Engineer,US,US,11.744045122410057
+604,604,2022,SE,FT,Data Analyst,129000,USD,129000,US,0,US,M,Data Analyst,US,US,11.767575435251748
+605,605,2022,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M,Data Analyst,US,US,11.918397239722838
+606,606,2022,MI,FT,AI Scientist,200000,USD,200000,IN,100,US,L,Other,IN,US,12.206077645517674
+>>>>>>> a563bae94b0a3a6872703aeb74c1f9f507b406e2
