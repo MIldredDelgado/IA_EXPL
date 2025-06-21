@@ -1,0 +1,7 @@
+KNN
+https://www.ibm.com/mx-es/topics/knn
+https://www.tpointtech.com/k-nearest-neighbor-algorithm-for-machine-learning
+
+SVM
+
+https://prezi.com/p/nhm0syg9noh5/maquinas-de-soporte-vectorial/
