@@ -3,5 +3,16 @@ https://www.ibm.com/mx-es/topics/knn
 https://www.tpointtech.com/k-nearest-neighbor-algorithm-for-machine-learning
 
 SVM
-
 https://prezi.com/p/nhm0syg9noh5/maquinas-de-soporte-vectorial/
+
+Que es K-means
+https://www.ibm.com/mx-es/topics/k-means-clustering
+https://youtu.be/2kfY0R34Dy0?si=-rWNXNiAlHMKJHGZ
+https://www.unioviedo.es/compnum/laboratorios_py/kmeans/kmeans.html
+
+Tutorial K-means
+https://youtu.be/R4DHQs8hi0g?si=BWrzhgVgCDI3WBEl
+
+definiciones ChatBot
+https://aunoa.ai/blog/guia-practica-para-entender-el-procesamiento-de-lenguaje-natural-en-chatbots/
+https://prezi.com/q18-ccld7hpv/chat-bot/
