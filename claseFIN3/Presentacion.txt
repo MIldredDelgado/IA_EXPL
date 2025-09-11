@@ -1,3 +1,9 @@
+EDA
+https://prezi.com/vxykyqf4kfnj/analisis-exploratorio-de-datos/
+
+EDA en python 
+https://prezi.com/p/cotilut1q2pd/analisis-exploratorio-de-datos-con-python/
+
 Tipos de datos cualitativos y cuantitativos
 https://prezi.com/p/6jsux3drj8g2/tipos-de-variables-cualitativas-y-cuantitativas-en-estadistica/
 
