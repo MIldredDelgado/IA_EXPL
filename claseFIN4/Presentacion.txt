@@ -7,7 +7,3 @@ https://prezi.com/fi8hf56q7s0l/regresion-lineal-multiple/
 Librería Scikit_learn
 https://prezi.com/p/763z4cwqutq8/aprendiendo-con-scikit-learn/
 
-Uso matplolib
-https://prezi.com/p/l4hqypqikjhn/visualizacion-de-datos-con-matplotlib/
- 
-
