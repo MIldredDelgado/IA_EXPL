@@ -1,7 +1,6 @@
 Website underfitting y overfittting
 https://www.aprendemachinelearning.com/que-es-overfitting-y-underfitting-y-como-solucionarlo/
 
-
 Presentación validación Cruzada
 https://prezi.com/p/paxwb0akz3uv/dominando-el-machine-learning/
 
@@ -20,3 +19,7 @@ https://prezi.com/p/wkzlf58k__mf/regresion_logistica/
 KNN
 https://www.ibm.com/mx-es/topics/knn
 https://www.tpointtech.com/k-nearest-neighbor-algorithm-for-machine-learning
+https://youtu.be/gs9E7E0qOIc
+
+Video de SVM
+https://www.youtube.com/watch?v=kl6tyEi5eso
