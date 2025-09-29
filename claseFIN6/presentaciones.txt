@@ -9,6 +9,7 @@ Que es K-means
 https://www.ibm.com/mx-es/topics/k-means-clustering
 https://youtu.be/2kfY0R34Dy0?si=-rWNXNiAlHMKJHGZ
 https://www.unioviedo.es/compnum/laboratorios_py/kmeans/kmeans.html
+https://youtu.be/2kfY0R34Dy0
 
 Tutorial K-means
 https://youtu.be/R4DHQs8hi0g?si=BWrzhgVgCDI3WBEl
