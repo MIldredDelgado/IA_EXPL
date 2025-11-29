@@ -10,3 +10,6 @@ https://prezi.com/fi8hf56q7s0l/regresion-lineal-multiple/
 Librería Scikit_learn
 https://prezi.com/p/763z4cwqutq8/aprendiendo-con-scikit-learn/
 
+Un gráfico del esquema general 
+https://www.diegocalvo.es/aprendizaje-supervisado/
+
