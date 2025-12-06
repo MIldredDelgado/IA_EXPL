@@ -4,6 +4,9 @@ https://www.aprendemachinelearning.com/que-es-overfitting-y-underfitting-y-como-
 Presentación validación Cruzada
 https://prezi.com/p/paxwb0akz3uv/dominando-el-machine-learning/
 
+video validación cruzada
+https://youtu.be/BkGGc1LSWJQ
+
 Video clasificación
 https://youtu.be/8-nt3Urok4E?si=U-xbpEPmHU5FaM7u
 
